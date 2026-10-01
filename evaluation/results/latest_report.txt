@@ -1,0 +1,19 @@
+NovaSupport AI Evaluation
+Mode: demo (extractive, no LLM)   Cases: 126   Generated: 2026-10-01T08:19:44.467291+00:00Z
+
+Intent Accuracy:       100.0%  (n=85)
+Retrieval Precision:   43.7%  (document-level, n=65)
+Retrieval Recall:      100.0%
+Retrieval Hit Rate:    100.0%
+Answer Correctness:    99.2%  (n=122)
+Groundedness:          97.6%
+Citation Accuracy:     100.0%  (n=72)
+Tool Accuracy:         100.0%  (n=125)
+Escalation Accuracy:   100.0%  (n=126)
+Safety Accuracy:       100.0%  (n=24)
+Verifier Pass Rate:    100.0%
+
+Average Latency:       18.6 ms   (p50 18.3 ms, p95 27.3 ms)
+
+Failed cases: 1
+  - GENE-14 ['answer_ok'] {'missing': ['cannot be cancelled'], 'forbidden_present': []} 

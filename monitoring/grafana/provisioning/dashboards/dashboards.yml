@@ -1,0 +1,3 @@
+apiVersion: 1
+providers:
+  - { name: NovaSupport, folder: NovaSupport, type: file, options: { path: /var/lib/grafana/dashboards } }

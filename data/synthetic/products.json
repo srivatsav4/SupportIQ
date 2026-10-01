@@ -1,0 +1,1082 @@
+[
+ {
+  "product_id": "P1001",
+  "name": "Aero Wireless Earbuds Max",
+  "category": "Electronics",
+  "price": 458.09,
+  "inventory": 0,
+  "description": "Wireless Earbuds from Aero with manufacturer support. Category: Electronics.",
+  "warranty_period": 12
+ },
+ {
+  "product_id": "P1002",
+  "name": "Pixel Bluetooth Speaker Plus",
+  "category": "Electronics",
+  "price": 285.35,
+  "inventory": 150,
+  "description": "Bluetooth Speaker from Pixel with manufacturer support. Category: Electronics.",
+  "warranty_period": 12
+ },
+ {
+  "product_id": "P1003",
+  "name": "Orbit Smartwatch S",
+  "category": "Electronics",
+  "price": 58.63,
+  "inventory": 150,
+  "description": "Smartwatch from Orbit with manufacturer support. Category: Electronics.",
+  "warranty_period": 12
+ },
+ {
+  "product_id": "P1004",
+  "name": "Orbit Laptop Stand Lite",
+  "category": "Electronics",
+  "price": 412.85,
+  "inventory": 25,
+  "description": "Laptop Stand from Orbit with manufacturer support. Category: Electronics.",
+  "warranty_period": 12
+ },
+ {
+  "product_id": "P1005",
+  "name": "Aero USB-C Hub Lite",
+  "category": "Electronics",
+  "price": 594.68,
+  "inventory": 150,
+  "description": "USB-C Hub from Aero with manufacturer support. Category: Electronics.",
+  "warranty_period": 12
+ },
+ {
+  "product_id": "P1006",
+  "name": "Vertex Power Bank Max",
+  "category": "Electronics",
+  "price": 496.94,
+  "inventory": 60,
+  "description": "Power Bank from Vertex with manufacturer support. Category: Electronics.",
+  "warranty_period": 12
+ },
+ {
+  "product_id": "P1007",
+  "name": "Vertex Mechanical Keyboard S",
+  "category": "Electronics",
+  "price": 147.79,
+  "inventory": 150,
+  "description": "Mechanical Keyboard from Vertex with manufacturer support. Category: Electronics.",
+  "warranty_period": 12
+ },
+ {
+  "product_id": "P1008",
+  "name": "Zephyr Webcam Max",
+  "category": "Electronics",
+  "price": 305.51,
+  "inventory": 150,
+  "description": "Webcam from Zephyr with manufacturer support. Category: Electronics.",
+  "warranty_period": 12
+ },
+ {
+  "product_id": "P1009",
+  "name": "Nova Tablet Lite",
+  "category": "Electronics",
+  "price": 626.55,
+  "inventory": 150,
+  "description": "Tablet from Nova with manufacturer support. Category: Electronics.",
+  "warranty_period": 12
+ },
+ {
+  "product_id": "P1010",
+  "name": "Lumen Noise Cancelling Headphones Pro",
+  "category": "Electronics",
+  "price": 260.75,
+  "inventory": 25,
+  "description": "Noise Cancelling Headphones from Lumen with manufacturer support. Category: Electronics.",
+  "warranty_period": 12
+ },
+ {
+  "product_id": "P1011",
+  "name": "Orbit Air Fryer S",
+  "category": "Home Appliances",
+  "price": 133.05,
+  "inventory": 3,
+  "description": "Air Fryer from Orbit with manufacturer support. Category: Home Appliances.",
+  "warranty_period": 24
+ },
+ {
+  "product_id": "P1012",
+  "name": "Lumen Mixer Grinder Max",
+  "category": "Home Appliances",
+  "price": 32.2,
+  "inventory": 25,
+  "description": "Mixer Grinder from Lumen with manufacturer support. Category: Home Appliances.",
+  "warranty_period": 24
+ },
+ {
+  "product_id": "P1013",
+  "name": "Vertex Robot Vacuum Lite",
+  "category": "Home Appliances",
+  "price": 45.58,
+  "inventory": 8,
+  "description": "Robot Vacuum from Vertex with manufacturer support. Category: Home Appliances.",
+  "warranty_period": 24
+ },
+ {
+  "product_id": "P1014",
+  "name": "Lumen Electric Kettle Pro",
+  "category": "Home Appliances",
+  "price": 331.73,
+  "inventory": 150,
+  "description": "Electric Kettle from Lumen with manufacturer support. Category: Home Appliances.",
+  "warranty_period": 24
+ },
+ {
+  "product_id": "P1015",
+  "name": "Lumen Air Purifier Max",
+  "category": "Home Appliances",
+  "price": 221.31,
+  "inventory": 60,
+  "description": "Air Purifier from Lumen with manufacturer support. Category: Home Appliances.",
+  "warranty_period": 24
+ },
+ {
+  "product_id": "P1016",
+  "name": "Lumen Induction Cooktop Max",
+  "category": "Home Appliances",
+  "price": 58.42,
+  "inventory": 150,
+  "description": "Induction Cooktop from Lumen with manufacturer support. Category: Home Appliances.",
+  "warranty_period": 24
+ },
+ {
+  "product_id": "P1017",
+  "name": "Orbit Toaster Oven S",
+  "category": "Home Appliances",
+  "price": 115.79,
+  "inventory": 3,
+  "description": "Toaster Oven from Orbit with manufacturer support. Category: Home Appliances.",
+  "warranty_period": 24
+ },
+ {
+  "product_id": "P1018",
+  "name": "Lumen Water Heater Pro",
+  "category": "Home Appliances",
+  "price": 336.64,
+  "inventory": 3,
+  "description": "Water Heater from Lumen with manufacturer support. Category: Home Appliances.",
+  "warranty_period": 24
+ },
+ {
+  "product_id": "P1019",
+  "name": "Pixel Phone Case S",
+  "category": "Accessories",
+  "price": 26.48,
+  "inventory": 0,
+  "description": "Phone Case from Pixel with manufacturer support. Category: Accessories.",
+  "warranty_period": 6
+ },
+ {
+  "product_id": "P1020",
+  "name": "Orbit Screen Guard Lite",
+  "category": "Accessories",
+  "price": 40.34,
+  "inventory": 150,
+  "description": "Screen Guard from Orbit with manufacturer support. Category: Accessories.",
+  "warranty_period": 6
+ },
+ {
+  "product_id": "P1021",
+  "name": "Orbit Charging Cable Max",
+  "category": "Accessories",
+  "price": 19.43,
+  "inventory": 3,
+  "description": "Charging Cable from Orbit with manufacturer support. Category: Accessories.",
+  "warranty_period": 6
+ },
+ {
+  "product_id": "P1022",
+  "name": "Aero Laptop Sleeve S",
+  "category": "Accessories",
+  "price": 26.22,
+  "inventory": 60,
+  "description": "Laptop Sleeve from Aero with manufacturer support. Category: Accessories.",
+  "warranty_period": 6
+ },
+ {
+  "product_id": "P1023",
+  "name": "Aero Wall Charger Pro",
+  "category": "Accessories",
+  "price": 9.59,
+  "inventory": 8,
+  "description": "Wall Charger from Aero with manufacturer support. Category: Accessories.",
+  "warranty_period": 6
+ },
+ {
+  "product_id": "P1024",
+  "name": "Pixel Car Mount Lite",
+  "category": "Accessories",
+  "price": 41.18,
+  "inventory": 60,
+  "description": "Car Mount from Pixel with manufacturer support. Category: Accessories.",
+  "warranty_period": 6
+ },
+ {
+  "product_id": "P1025",
+  "name": "Lumen Office Chair Lite",
+  "category": "Furniture",
+  "price": 501.09,
+  "inventory": 150,
+  "description": "Office Chair from Lumen with manufacturer support. Category: Furniture.",
+  "warranty_period": 12
+ },
+ {
+  "product_id": "P1026",
+  "name": "Orbit Standing Desk Plus",
+  "category": "Furniture",
+  "price": 481.33,
+  "inventory": 0,
+  "description": "Standing Desk from Orbit with manufacturer support. Category: Furniture.",
+  "warranty_period": 12
+ },
+ {
+  "product_id": "P1027",
+  "name": "Pixel Bookshelf Max",
+  "category": "Furniture",
+  "price": 308.51,
+  "inventory": 8,
+  "description": "Bookshelf from Pixel with manufacturer support. Category: Furniture.",
+  "warranty_period": 12
+ },
+ {
+  "product_id": "P1028",
+  "name": "Nova Bedside Table S",
+  "category": "Furniture",
+  "price": 438.17,
+  "inventory": 8,
+  "description": "Bedside Table from Nova with manufacturer support. Category: Furniture.",
+  "warranty_period": 12
+ },
+ {
+  "product_id": "P1029",
+  "name": "Lumen Shoe Rack S",
+  "category": "Furniture",
+  "price": 264.96,
+  "inventory": 0,
+  "description": "Shoe Rack from Lumen with manufacturer support. Category: Furniture.",
+  "warranty_period": 12
+ },
+ {
+  "product_id": "P1030",
+  "name": "Orbit Running Shoes Lite",
+  "category": "Clothing",
+  "price": 43.39,
+  "inventory": 0,
+  "description": "Running Shoes from Orbit with manufacturer support. Category: Clothing.",
+  "warranty_period": 0
+ },
+ {
+  "product_id": "P1031",
+  "name": "Nova Cotton T-Shirt Lite",
+  "category": "Clothing",
+  "price": 107.22,
+  "inventory": 60,
+  "description": "Cotton T-Shirt from Nova with manufacturer support. Category: Clothing.",
+  "warranty_period": 0
+ },
+ {
+  "product_id": "P1032",
+  "name": "Lumen Denim Jacket Pro",
+  "category": "Clothing",
+  "price": 73.44,
+  "inventory": 3,
+  "description": "Denim Jacket from Lumen with manufacturer support. Category: Clothing.",
+  "warranty_period": 0
+ },
+ {
+  "product_id": "P1033",
+  "name": "Vertex Hoodie Lite",
+  "category": "Clothing",
+  "price": 96.77,
+  "inventory": 25,
+  "description": "Hoodie from Vertex with manufacturer support. Category: Clothing.",
+  "warranty_period": 0
+ },
+ {
+  "product_id": "P1034",
+  "name": "Aero Backpack Pro",
+  "category": "Clothing",
+  "price": 32.15,
+  "inventory": 150,
+  "description": "Backpack from Aero with manufacturer support. Category: Clothing.",
+  "warranty_period": 0
+ },
+ {
+  "product_id": "P1035",
+  "name": "Vertex Trimmer Plus",
+  "category": "Personal Care",
+  "price": 61.72,
+  "inventory": 0,
+  "description": "Trimmer from Vertex with manufacturer support. Category: Personal Care.",
+  "warranty_period": 0
+ },
+ {
+  "product_id": "P1036",
+  "name": "Vertex Hair Dryer Lite",
+  "category": "Personal Care",
+  "price": 11.9,
+  "inventory": 150,
+  "description": "Hair Dryer from Vertex with manufacturer support. Category: Personal Care.",
+  "warranty_period": 0
+ },
+ {
+  "product_id": "P1037",
+  "name": "Orbit Electric Toothbrush Pro",
+  "category": "Personal Care",
+  "price": 17.0,
+  "inventory": 0,
+  "description": "Electric Toothbrush from Orbit with manufacturer support. Category: Personal Care.",
+  "warranty_period": 0
+ },
+ {
+  "product_id": "P1038",
+  "name": "Zephyr Face Serum Max",
+  "category": "Personal Care",
+  "price": 54.65,
+  "inventory": 60,
+  "description": "Face Serum from Zephyr with manufacturer support. Category: Personal Care.",
+  "warranty_period": 0
+ },
+ {
+  "product_id": "P1039",
+  "name": "Aero Wireless Earbuds Lite",
+  "category": "Electronics",
+  "price": 594.37,
+  "inventory": 25,
+  "description": "Wireless Earbuds from Aero with manufacturer support. Category: Electronics.",
+  "warranty_period": 12
+ },
+ {
+  "product_id": "P1040",
+  "name": "Pixel Bluetooth Speaker Plus",
+  "category": "Electronics",
+  "price": 418.89,
+  "inventory": 25,
+  "description": "Bluetooth Speaker from Pixel with manufacturer support. Category: Electronics.",
+  "warranty_period": 12
+ },
+ {
+  "product_id": "P1041",
+  "name": "Orbit Smartwatch Pro",
+  "category": "Electronics",
+  "price": 268.44,
+  "inventory": 0,
+  "description": "Smartwatch from Orbit with manufacturer support. Category: Electronics.",
+  "warranty_period": 12
+ },
+ {
+  "product_id": "P1042",
+  "name": "Lumen Laptop Stand Pro",
+  "category": "Electronics",
+  "price": 425.89,
+  "inventory": 60,
+  "description": "Laptop Stand from Lumen with manufacturer support. Category: Electronics.",
+  "warranty_period": 12
+ },
+ {
+  "product_id": "P1043",
+  "name": "Nova USB-C Hub S",
+  "category": "Electronics",
+  "price": 53.45,
+  "inventory": 0,
+  "description": "USB-C Hub from Nova with manufacturer support. Category: Electronics.",
+  "warranty_period": 12
+ },
+ {
+  "product_id": "P1044",
+  "name": "Orbit Power Bank S",
+  "category": "Electronics",
+  "price": 91.33,
+  "inventory": 150,
+  "description": "Power Bank from Orbit with manufacturer support. Category: Electronics.",
+  "warranty_period": 12
+ },
+ {
+  "product_id": "P1045",
+  "name": "Orbit Mechanical Keyboard S",
+  "category": "Electronics",
+  "price": 79.07,
+  "inventory": 25,
+  "description": "Mechanical Keyboard from Orbit with manufacturer support. Category: Electronics.",
+  "warranty_period": 12
+ },
+ {
+  "product_id": "P1046",
+  "name": "Pixel Webcam Plus",
+  "category": "Electronics",
+  "price": 538.83,
+  "inventory": 0,
+  "description": "Webcam from Pixel with manufacturer support. Category: Electronics.",
+  "warranty_period": 12
+ },
+ {
+  "product_id": "P1047",
+  "name": "Pixel Tablet Lite",
+  "category": "Electronics",
+  "price": 358.42,
+  "inventory": 3,
+  "description": "Tablet from Pixel with manufacturer support. Category: Electronics.",
+  "warranty_period": 12
+ },
+ {
+  "product_id": "P1048",
+  "name": "Vertex Noise Cancelling Headphones Plus",
+  "category": "Electronics",
+  "price": 522.98,
+  "inventory": 60,
+  "description": "Noise Cancelling Headphones from Vertex with manufacturer support. Category: Electronics.",
+  "warranty_period": 12
+ },
+ {
+  "product_id": "P1049",
+  "name": "Orbit Air Fryer Lite",
+  "category": "Home Appliances",
+  "price": 146.24,
+  "inventory": 150,
+  "description": "Air Fryer from Orbit with manufacturer support. Category: Home Appliances.",
+  "warranty_period": 24
+ },
+ {
+  "product_id": "P1050",
+  "name": "Vertex Mixer Grinder Max",
+  "category": "Home Appliances",
+  "price": 403.38,
+  "inventory": 0,
+  "description": "Mixer Grinder from Vertex with manufacturer support. Category: Home Appliances.",
+  "warranty_period": 24
+ },
+ {
+  "product_id": "P1051",
+  "name": "Lumen Robot Vacuum S",
+  "category": "Home Appliances",
+  "price": 85.14,
+  "inventory": 0,
+  "description": "Robot Vacuum from Lumen with manufacturer support. Category: Home Appliances.",
+  "warranty_period": 24
+ },
+ {
+  "product_id": "P1052",
+  "name": "Nova Electric Kettle S",
+  "category": "Home Appliances",
+  "price": 262.7,
+  "inventory": 60,
+  "description": "Electric Kettle from Nova with manufacturer support. Category: Home Appliances.",
+  "warranty_period": 24
+ },
+ {
+  "product_id": "P1053",
+  "name": "Lumen Air Purifier Pro",
+  "category": "Home Appliances",
+  "price": 148.83,
+  "inventory": 150,
+  "description": "Air Purifier from Lumen with manufacturer support. Category: Home Appliances.",
+  "warranty_period": 24
+ },
+ {
+  "product_id": "P1054",
+  "name": "Vertex Induction Cooktop Max",
+  "category": "Home Appliances",
+  "price": 112.58,
+  "inventory": 150,
+  "description": "Induction Cooktop from Vertex with manufacturer support. Category: Home Appliances.",
+  "warranty_period": 24
+ },
+ {
+  "product_id": "P1055",
+  "name": "Aero Toaster Oven S",
+  "category": "Home Appliances",
+  "price": 85.56,
+  "inventory": 3,
+  "description": "Toaster Oven from Aero with manufacturer support. Category: Home Appliances.",
+  "warranty_period": 24
+ },
+ {
+  "product_id": "P1056",
+  "name": "Zephyr Water Heater S",
+  "category": "Home Appliances",
+  "price": 355.55,
+  "inventory": 3,
+  "description": "Water Heater from Zephyr with manufacturer support. Category: Home Appliances.",
+  "warranty_period": 24
+ },
+ {
+  "product_id": "P1057",
+  "name": "Nova Phone Case Lite",
+  "category": "Accessories",
+  "price": 31.84,
+  "inventory": 60,
+  "description": "Phone Case from Nova with manufacturer support. Category: Accessories.",
+  "warranty_period": 6
+ },
+ {
+  "product_id": "P1058",
+  "name": "Aero Screen Guard Pro",
+  "category": "Accessories",
+  "price": 39.06,
+  "inventory": 60,
+  "description": "Screen Guard from Aero with manufacturer support. Category: Accessories.",
+  "warranty_period": 6
+ },
+ {
+  "product_id": "P1059",
+  "name": "Pixel Charging Cable S",
+  "category": "Accessories",
+  "price": 7.93,
+  "inventory": 150,
+  "description": "Charging Cable from Pixel with manufacturer support. Category: Accessories.",
+  "warranty_period": 6
+ },
+ {
+  "product_id": "P1060",
+  "name": "Nova Laptop Sleeve Max",
+  "category": "Accessories",
+  "price": 8.93,
+  "inventory": 150,
+  "description": "Laptop Sleeve from Nova with manufacturer support. Category: Accessories.",
+  "warranty_period": 6
+ },
+ {
+  "product_id": "P1061",
+  "name": "Lumen Wall Charger Plus",
+  "category": "Accessories",
+  "price": 43.06,
+  "inventory": 8,
+  "description": "Wall Charger from Lumen with manufacturer support. Category: Accessories.",
+  "warranty_period": 6
+ },
+ {
+  "product_id": "P1062",
+  "name": "Zephyr Car Mount Lite",
+  "category": "Accessories",
+  "price": 9.0,
+  "inventory": 60,
+  "description": "Car Mount from Zephyr with manufacturer support. Category: Accessories.",
+  "warranty_period": 6
+ },
+ {
+  "product_id": "P1063",
+  "name": "Nova Office Chair Lite",
+  "category": "Furniture",
+  "price": 206.18,
+  "inventory": 25,
+  "description": "Office Chair from Nova with manufacturer support. Category: Furniture.",
+  "warranty_period": 12
+ },
+ {
+  "product_id": "P1064",
+  "name": "Orbit Standing Desk S",
+  "category": "Furniture",
+  "price": 363.33,
+  "inventory": 150,
+  "description": "Standing Desk from Orbit with manufacturer support. Category: Furniture.",
+  "warranty_period": 12
+ },
+ {
+  "product_id": "P1065",
+  "name": "Lumen Bookshelf Lite",
+  "category": "Furniture",
+  "price": 320.15,
+  "inventory": 8,
+  "description": "Bookshelf from Lumen with manufacturer support. Category: Furniture.",
+  "warranty_period": 12
+ },
+ {
+  "product_id": "P1066",
+  "name": "Aero Bedside Table Max",
+  "category": "Furniture",
+  "price": 500.98,
+  "inventory": 3,
+  "description": "Bedside Table from Aero with manufacturer support. Category: Furniture.",
+  "warranty_period": 12
+ },
+ {
+  "product_id": "P1067",
+  "name": "Nova Shoe Rack Max",
+  "category": "Furniture",
+  "price": 173.24,
+  "inventory": 3,
+  "description": "Shoe Rack from Nova with manufacturer support. Category: Furniture.",
+  "warranty_period": 12
+ },
+ {
+  "product_id": "P1068",
+  "name": "Vertex Running Shoes Plus",
+  "category": "Clothing",
+  "price": 39.11,
+  "inventory": 8,
+  "description": "Running Shoes from Vertex with manufacturer support. Category: Clothing.",
+  "warranty_period": 0
+ },
+ {
+  "product_id": "P1069",
+  "name": "Zephyr Cotton T-Shirt Max",
+  "category": "Clothing",
+  "price": 98.03,
+  "inventory": 25,
+  "description": "Cotton T-Shirt from Zephyr with manufacturer support. Category: Clothing.",
+  "warranty_period": 0
+ },
+ {
+  "product_id": "P1070",
+  "name": "Pixel Denim Jacket Max",
+  "category": "Clothing",
+  "price": 87.93,
+  "inventory": 25,
+  "description": "Denim Jacket from Pixel with manufacturer support. Category: Clothing.",
+  "warranty_period": 0
+ },
+ {
+  "product_id": "P1071",
+  "name": "Lumen Hoodie Pro",
+  "category": "Clothing",
+  "price": 29.23,
+  "inventory": 60,
+  "description": "Hoodie from Lumen with manufacturer support. Category: Clothing.",
+  "warranty_period": 0
+ },
+ {
+  "product_id": "P1072",
+  "name": "Nova Backpack Max",
+  "category": "Clothing",
+  "price": 96.15,
+  "inventory": 3,
+  "description": "Backpack from Nova with manufacturer support. Category: Clothing.",
+  "warranty_period": 0
+ },
+ {
+  "product_id": "P1073",
+  "name": "Lumen Trimmer Lite",
+  "category": "Personal Care",
+  "price": 31.06,
+  "inventory": 150,
+  "description": "Trimmer from Lumen with manufacturer support. Category: Personal Care.",
+  "warranty_period": 0
+ },
+ {
+  "product_id": "P1074",
+  "name": "Nova Hair Dryer Pro",
+  "category": "Personal Care",
+  "price": 81.37,
+  "inventory": 60,
+  "description": "Hair Dryer from Nova with manufacturer support. Category: Personal Care.",
+  "warranty_period": 0
+ },
+ {
+  "product_id": "P1075",
+  "name": "Vertex Electric Toothbrush Pro",
+  "category": "Personal Care",
+  "price": 75.01,
+  "inventory": 60,
+  "description": "Electric Toothbrush from Vertex with manufacturer support. Category: Personal Care.",
+  "warranty_period": 0
+ },
+ {
+  "product_id": "P1076",
+  "name": "Pixel Face Serum S",
+  "category": "Personal Care",
+  "price": 27.02,
+  "inventory": 0,
+  "description": "Face Serum from Pixel with manufacturer support. Category: Personal Care.",
+  "warranty_period": 0
+ },
+ {
+  "product_id": "P1077",
+  "name": "Lumen Wireless Earbuds Max",
+  "category": "Electronics",
+  "price": 364.67,
+  "inventory": 60,
+  "description": "Wireless Earbuds from Lumen with manufacturer support. Category: Electronics.",
+  "warranty_period": 12
+ },
+ {
+  "product_id": "P1078",
+  "name": "Pixel Bluetooth Speaker Lite",
+  "category": "Electronics",
+  "price": 253.64,
+  "inventory": 3,
+  "description": "Bluetooth Speaker from Pixel with manufacturer support. Category: Electronics.",
+  "warranty_period": 12
+ },
+ {
+  "product_id": "P1079",
+  "name": "Aero Smartwatch S",
+  "category": "Electronics",
+  "price": 483.27,
+  "inventory": 8,
+  "description": "Smartwatch from Aero with manufacturer support. Category: Electronics.",
+  "warranty_period": 12
+ },
+ {
+  "product_id": "P1080",
+  "name": "Zephyr Laptop Stand Plus",
+  "category": "Electronics",
+  "price": 338.2,
+  "inventory": 0,
+  "description": "Laptop Stand from Zephyr with manufacturer support. Category: Electronics.",
+  "warranty_period": 12
+ },
+ {
+  "product_id": "P1081",
+  "name": "Pixel USB-C Hub Max",
+  "category": "Electronics",
+  "price": 338.85,
+  "inventory": 150,
+  "description": "USB-C Hub from Pixel with manufacturer support. Category: Electronics.",
+  "warranty_period": 12
+ },
+ {
+  "product_id": "P1082",
+  "name": "Zephyr Power Bank S",
+  "category": "Electronics",
+  "price": 452.6,
+  "inventory": 60,
+  "description": "Power Bank from Zephyr with manufacturer support. Category: Electronics.",
+  "warranty_period": 12
+ },
+ {
+  "product_id": "P1083",
+  "name": "Zephyr Mechanical Keyboard Plus",
+  "category": "Electronics",
+  "price": 124.51,
+  "inventory": 60,
+  "description": "Mechanical Keyboard from Zephyr with manufacturer support. Category: Electronics.",
+  "warranty_period": 12
+ },
+ {
+  "product_id": "P1084",
+  "name": "Lumen Webcam Lite",
+  "category": "Electronics",
+  "price": 484.95,
+  "inventory": 25,
+  "description": "Webcam from Lumen with manufacturer support. Category: Electronics.",
+  "warranty_period": 12
+ },
+ {
+  "product_id": "P1085",
+  "name": "Orbit Tablet Pro",
+  "category": "Electronics",
+  "price": 161.76,
+  "inventory": 25,
+  "description": "Tablet from Orbit with manufacturer support. Category: Electronics.",
+  "warranty_period": 12
+ },
+ {
+  "product_id": "P1086",
+  "name": "Zephyr Noise Cancelling Headphones Pro",
+  "category": "Electronics",
+  "price": 190.22,
+  "inventory": 3,
+  "description": "Noise Cancelling Headphones from Zephyr with manufacturer support. Category: Electronics.",
+  "warranty_period": 12
+ },
+ {
+  "product_id": "P1087",
+  "name": "Nova Air Fryer Lite",
+  "category": "Home Appliances",
+  "price": 231.98,
+  "inventory": 8,
+  "description": "Air Fryer from Nova with manufacturer support. Category: Home Appliances.",
+  "warranty_period": 24
+ },
+ {
+  "product_id": "P1088",
+  "name": "Pixel Mixer Grinder Plus",
+  "category": "Home Appliances",
+  "price": 387.98,
+  "inventory": 0,
+  "description": "Mixer Grinder from Pixel with manufacturer support. Category: Home Appliances.",
+  "warranty_period": 24
+ },
+ {
+  "product_id": "P1089",
+  "name": "Nova Robot Vacuum Max",
+  "category": "Home Appliances",
+  "price": 70.26,
+  "inventory": 60,
+  "description": "Robot Vacuum from Nova with manufacturer support. Category: Home Appliances.",
+  "warranty_period": 24
+ },
+ {
+  "product_id": "P1090",
+  "name": "Vertex Electric Kettle Max",
+  "category": "Home Appliances",
+  "price": 355.6,
+  "inventory": 8,
+  "description": "Electric Kettle from Vertex with manufacturer support. Category: Home Appliances.",
+  "warranty_period": 24
+ },
+ {
+  "product_id": "P1091",
+  "name": "Lumen Air Purifier S",
+  "category": "Home Appliances",
+  "price": 252.36,
+  "inventory": 25,
+  "description": "Air Purifier from Lumen with manufacturer support. Category: Home Appliances.",
+  "warranty_period": 24
+ },
+ {
+  "product_id": "P1092",
+  "name": "Vertex Induction Cooktop Plus",
+  "category": "Home Appliances",
+  "price": 172.47,
+  "inventory": 150,
+  "description": "Induction Cooktop from Vertex with manufacturer support. Category: Home Appliances.",
+  "warranty_period": 24
+ },
+ {
+  "product_id": "P1093",
+  "name": "Aero Toaster Oven Pro",
+  "category": "Home Appliances",
+  "price": 231.5,
+  "inventory": 25,
+  "description": "Toaster Oven from Aero with manufacturer support. Category: Home Appliances.",
+  "warranty_period": 24
+ },
+ {
+  "product_id": "P1094",
+  "name": "Zephyr Water Heater S",
+  "category": "Home Appliances",
+  "price": 188.28,
+  "inventory": 8,
+  "description": "Water Heater from Zephyr with manufacturer support. Category: Home Appliances.",
+  "warranty_period": 24
+ },
+ {
+  "product_id": "P1095",
+  "name": "Pixel Phone Case Plus",
+  "category": "Accessories",
+  "price": 40.49,
+  "inventory": 0,
+  "description": "Phone Case from Pixel with manufacturer support. Category: Accessories.",
+  "warranty_period": 6
+ },
+ {
+  "product_id": "P1096",
+  "name": "Lumen Screen Guard Lite",
+  "category": "Accessories",
+  "price": 22.6,
+  "inventory": 3,
+  "description": "Screen Guard from Lumen with manufacturer support. Category: Accessories.",
+  "warranty_period": 6
+ },
+ {
+  "product_id": "P1097",
+  "name": "Nova Charging Cable S",
+  "category": "Accessories",
+  "price": 30.74,
+  "inventory": 3,
+  "description": "Charging Cable from Nova with manufacturer support. Category: Accessories.",
+  "warranty_period": 6
+ },
+ {
+  "product_id": "P1098",
+  "name": "Zephyr Laptop Sleeve Lite",
+  "category": "Accessories",
+  "price": 11.29,
+  "inventory": 60,
+  "description": "Laptop Sleeve from Zephyr with manufacturer support. Category: Accessories.",
+  "warranty_period": 6
+ },
+ {
+  "product_id": "P1099",
+  "name": "Vertex Wall Charger Pro",
+  "category": "Accessories",
+  "price": 31.44,
+  "inventory": 25,
+  "description": "Wall Charger from Vertex with manufacturer support. Category: Accessories.",
+  "warranty_period": 6
+ },
+ {
+  "product_id": "P1100",
+  "name": "Aero Car Mount Max",
+  "category": "Accessories",
+  "price": 33.81,
+  "inventory": 25,
+  "description": "Car Mount from Aero with manufacturer support. Category: Accessories.",
+  "warranty_period": 6
+ },
+ {
+  "product_id": "P1101",
+  "name": "Vertex Office Chair Plus",
+  "category": "Furniture",
+  "price": 280.35,
+  "inventory": 60,
+  "description": "Office Chair from Vertex with manufacturer support. Category: Furniture.",
+  "warranty_period": 12
+ },
+ {
+  "product_id": "P1102",
+  "name": "Zephyr Standing Desk Plus",
+  "category": "Furniture",
+  "price": 70.33,
+  "inventory": 0,
+  "description": "Standing Desk from Zephyr with manufacturer support. Category: Furniture.",
+  "warranty_period": 12
+ },
+ {
+  "product_id": "P1103",
+  "name": "Zephyr Bookshelf S",
+  "category": "Furniture",
+  "price": 332.48,
+  "inventory": 3,
+  "description": "Bookshelf from Zephyr with manufacturer support. Category: Furniture.",
+  "warranty_period": 12
+ },
+ {
+  "product_id": "P1104",
+  "name": "Vertex Bedside Table S",
+  "category": "Furniture",
+  "price": 78.03,
+  "inventory": 60,
+  "description": "Bedside Table from Vertex with manufacturer support. Category: Furniture.",
+  "warranty_period": 12
+ },
+ {
+  "product_id": "P1105",
+  "name": "Zephyr Shoe Rack Pro",
+  "category": "Furniture",
+  "price": 136.52,
+  "inventory": 3,
+  "description": "Shoe Rack from Zephyr with manufacturer support. Category: Furniture.",
+  "warranty_period": 12
+ },
+ {
+  "product_id": "P1106",
+  "name": "Lumen Running Shoes Plus",
+  "category": "Clothing",
+  "price": 70.74,
+  "inventory": 60,
+  "description": "Running Shoes from Lumen with manufacturer support. Category: Clothing.",
+  "warranty_period": 0
+ },
+ {
+  "product_id": "P1107",
+  "name": "Vertex Cotton T-Shirt Pro",
+  "category": "Clothing",
+  "price": 98.09,
+  "inventory": 150,
+  "description": "Cotton T-Shirt from Vertex with manufacturer support. Category: Clothing.",
+  "warranty_period": 0
+ },
+ {
+  "product_id": "P1108",
+  "name": "Vertex Denim Jacket Max",
+  "category": "Clothing",
+  "price": 104.83,
+  "inventory": 3,
+  "description": "Denim Jacket from Vertex with manufacturer support. Category: Clothing.",
+  "warranty_period": 0
+ },
+ {
+  "product_id": "P1109",
+  "name": "Pixel Hoodie S",
+  "category": "Clothing",
+  "price": 109.29,
+  "inventory": 25,
+  "description": "Hoodie from Pixel with manufacturer support. Category: Clothing.",
+  "warranty_period": 0
+ },
+ {
+  "product_id": "P1110",
+  "name": "Zephyr Backpack Lite",
+  "category": "Clothing",
+  "price": 93.38,
+  "inventory": 60,
+  "description": "Backpack from Zephyr with manufacturer support. Category: Clothing.",
+  "warranty_period": 0
+ },
+ {
+  "product_id": "P1111",
+  "name": "Zephyr Trimmer S",
+  "category": "Personal Care",
+  "price": 75.64,
+  "inventory": 3,
+  "description": "Trimmer from Zephyr with manufacturer support. Category: Personal Care.",
+  "warranty_period": 0
+ },
+ {
+  "product_id": "P1112",
+  "name": "Lumen Hair Dryer S",
+  "category": "Personal Care",
+  "price": 31.16,
+  "inventory": 150,
+  "description": "Hair Dryer from Lumen with manufacturer support. Category: Personal Care.",
+  "warranty_period": 0
+ },
+ {
+  "product_id": "P1113",
+  "name": "Vertex Electric Toothbrush Max",
+  "category": "Personal Care",
+  "price": 83.79,
+  "inventory": 60,
+  "description": "Electric Toothbrush from Vertex with manufacturer support. Category: Personal Care.",
+  "warranty_period": 0
+ },
+ {
+  "product_id": "P1114",
+  "name": "Lumen Face Serum Pro",
+  "category": "Personal Care",
+  "price": 28.39,
+  "inventory": 25,
+  "description": "Face Serum from Lumen with manufacturer support. Category: Personal Care.",
+  "warranty_period": 0
+ },
+ {
+  "product_id": "P1115",
+  "name": "Zephyr Wireless Earbuds Pro",
+  "category": "Electronics",
+  "price": 35.35,
+  "inventory": 60,
+  "description": "Wireless Earbuds from Zephyr with manufacturer support. Category: Electronics.",
+  "warranty_period": 12
+ },
+ {
+  "product_id": "P1116",
+  "name": "Aero Bluetooth Speaker S",
+  "category": "Electronics",
+  "price": 452.73,
+  "inventory": 3,
+  "description": "Bluetooth Speaker from Aero with manufacturer support. Category: Electronics.",
+  "warranty_period": 12
+ },
+ {
+  "product_id": "P1117",
+  "name": "Lumen Smartwatch Pro",
+  "category": "Electronics",
+  "price": 135.89,
+  "inventory": 60,
+  "description": "Smartwatch from Lumen with manufacturer support. Category: Electronics.",
+  "warranty_period": 12
+ },
+ {
+  "product_id": "P1118",
+  "name": "Lumen Laptop Stand Pro",
+  "category": "Electronics",
+  "price": 573.6,
+  "inventory": 60,
+  "description": "Laptop Stand from Lumen with manufacturer support. Category: Electronics.",
+  "warranty_period": 12
+ },
+ {
+  "product_id": "P1119",
+  "name": "Lumen USB-C Hub Pro",
+  "category": "Electronics",
+  "price": 83.24,
+  "inventory": 150,
+  "description": "USB-C Hub from Lumen with manufacturer support. Category: Electronics.",
+  "warranty_period": 12
+ },
+ {
+  "product_id": "P1120",
+  "name": "Zephyr Power Bank S",
+  "category": "Electronics",
+  "price": 362.05,
+  "inventory": 0,
+  "description": "Power Bank from Zephyr with manufacturer support. Category: Electronics.",
+  "warranty_period": 12
+ }
+]

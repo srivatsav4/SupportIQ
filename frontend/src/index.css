@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --paper: 247 244 238; --card: 255 253 249; --ink: 28 25 23; --mute: 112 104 96; --line: 229 223 213;
+  --brand: 217 78 38; --ok: 34 139 94; --warn: 196 130 12; --bad: 192 49 49; --info: 52 98 168;
+}
+.dark {
+  --paper: 20 18 17; --card: 30 27 25; --ink: 244 240 233; --mute: 160 152 143; --line: 52 47 43;
+  --brand: 244 112 72; --ok: 74 186 136; --warn: 232 168 56; --bad: 238 104 104; --info: 120 164 232;
+}
+html, body, #root { height: 100%; }
+body { @apply bg-paper text-ink font-sans antialiased; font-feature-settings: "ss01", "cv11"; }
+.card { @apply bg-card border border-line rounded-xl; }
+.btn { @apply inline-flex items-center justify-center gap-2 rounded-lg px-3.5 py-2 text-sm font-medium transition disabled:opacity-50 disabled:cursor-not-allowed; }
+.btn-primary { @apply bg-brand text-white hover:opacity-90; }
+.btn-ghost { @apply border border-line hover:bg-line/40; }
+.input { @apply w-full rounded-lg border border-line bg-paper px-3 py-2 text-sm outline-none focus:border-brand focus:ring-2 focus:ring-brand/20; }
+.skeleton { @apply animate-pulse bg-line/60 rounded; }
+::-webkit-scrollbar { width: 9px; height: 9px; } ::-webkit-scrollbar-thumb { background: rgb(var(--line)); border-radius: 8px; }
+@media (prefers-reduced-motion: reduce) { * { animation: none !important; transition: none !important; } }

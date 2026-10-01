@@ -1,0 +1,3206 @@
+[
+ {
+  "refund_id": "R1",
+  "order_id": "A10001",
+  "amount": 1936.26,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-04T00:00:00",
+  "completed_at": "2026-07-10T00:00:00"
+ },
+ {
+  "refund_id": "R2",
+  "order_id": "A10014",
+  "amount": 988.89,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-24T00:00:00",
+  "completed_at": "2026-08-30T00:00:00"
+ },
+ {
+  "refund_id": "R3",
+  "order_id": "A10038",
+  "amount": 212.22,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-12T00:00:00",
+  "completed_at": "2026-08-18T00:00:00"
+ },
+ {
+  "refund_id": "R4",
+  "order_id": "A10044",
+  "amount": 1357.8,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-30T00:00:00",
+  "completed_at": "2026-09-05T00:00:00"
+ },
+ {
+  "refund_id": "R5",
+  "order_id": "A10053",
+  "amount": 80.68,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-21T00:00:00",
+  "completed_at": "2026-08-27T00:00:00"
+ },
+ {
+  "refund_id": "R6",
+  "order_id": "A10059",
+  "amount": 31.78,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-02T00:00:00",
+  "completed_at": "2026-07-08T00:00:00"
+ },
+ {
+  "refund_id": "R7",
+  "order_id": "A10073",
+  "amount": 1117.9,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-17T00:00:00",
+  "completed_at": "2026-08-23T00:00:00"
+ },
+ {
+  "refund_id": "R8",
+  "order_id": "A10097",
+  "amount": 592.48,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-06-29T00:00:00",
+  "completed_at": "2026-07-05T00:00:00"
+ },
+ {
+  "refund_id": "R9",
+  "order_id": "A10099",
+  "amount": 1279.25,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-14T00:00:00",
+  "completed_at": "2026-08-20T00:00:00"
+ },
+ {
+  "refund_id": "R10",
+  "order_id": "A10114",
+  "amount": 179.16,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-09T00:00:00",
+  "completed_at": "2026-09-15T00:00:00"
+ },
+ {
+  "refund_id": "R11",
+  "order_id": "A10122",
+  "amount": 1125.03,
+  "reason": "Item damaged on arrival",
+  "status": "Initiated",
+  "initiated_at": "2026-09-12T00:00:00",
+  "completed_at": null
+ },
+ {
+  "refund_id": "R12",
+  "order_id": "A10133",
+  "amount": 121.02,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-15T00:00:00",
+  "completed_at": "2026-09-21T00:00:00"
+ },
+ {
+  "refund_id": "R13",
+  "order_id": "A10139",
+  "amount": 500.98,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-02T00:00:00",
+  "completed_at": "2026-08-08T00:00:00"
+ },
+ {
+  "refund_id": "R14",
+  "order_id": "A10155",
+  "amount": 305.51,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-07-25T00:00:00",
+  "completed_at": "2026-07-31T00:00:00"
+ },
+ {
+  "refund_id": "R15",
+  "order_id": "A10158",
+  "amount": 359.85,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-16T00:00:00",
+  "completed_at": "2026-08-22T00:00:00"
+ },
+ {
+  "refund_id": "R16",
+  "order_id": "A10167",
+  "amount": 1758.36,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-30T00:00:00",
+  "completed_at": "2026-08-05T00:00:00"
+ },
+ {
+  "refund_id": "R17",
+  "order_id": "A10174",
+  "amount": 93.38,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-17T00:00:00",
+  "completed_at": "2026-09-23T00:00:00"
+ },
+ {
+  "refund_id": "R18",
+  "order_id": "A10181",
+  "amount": 2036.55,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-02T00:00:00",
+  "completed_at": "2026-09-08T00:00:00"
+ },
+ {
+  "refund_id": "R19",
+  "order_id": "A10190",
+  "amount": 485.28,
+  "reason": "Item damaged on arrival",
+  "status": "Completed",
+  "initiated_at": "2026-09-13T00:00:00",
+  "completed_at": "2026-09-19T00:00:00"
+ },
+ {
+  "refund_id": "R20",
+  "order_id": "A10191",
+  "amount": 2057.31,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-01T00:00:00",
+  "completed_at": "2026-07-07T00:00:00"
+ },
+ {
+  "refund_id": "R21",
+  "order_id": "A10199",
+  "amount": 409.56,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-01T00:00:00",
+  "completed_at": "2026-09-07T00:00:00"
+ },
+ {
+  "refund_id": "R22",
+  "order_id": "A10205",
+  "amount": 321.66,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-22T00:00:00",
+  "completed_at": "2026-09-28T00:00:00"
+ },
+ {
+  "refund_id": "R23",
+  "order_id": "A10208",
+  "amount": 458.09,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-19T00:00:00",
+  "completed_at": "2026-08-25T00:00:00"
+ },
+ {
+  "refund_id": "R24",
+  "order_id": "A10212",
+  "amount": 96.6,
+  "reason": "Wrong product received",
+  "status": "Approved",
+  "initiated_at": "2026-09-29T00:00:00",
+  "completed_at": null
+ },
+ {
+  "refund_id": "R25",
+  "order_id": "A10213",
+  "amount": 62.32,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-06T00:00:00",
+  "completed_at": "2026-08-12T00:00:00"
+ },
+ {
+  "refund_id": "R26",
+  "order_id": "A10214",
+  "amount": 1679.16,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-24T00:00:00",
+  "completed_at": "2026-07-30T00:00:00"
+ },
+ {
+  "refund_id": "R27",
+  "order_id": "A10237",
+  "amount": 2900.05,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-06T00:00:00",
+  "completed_at": "2026-08-12T00:00:00"
+ },
+ {
+  "refund_id": "R28",
+  "order_id": "A10239",
+  "amount": 221.31,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-09T00:00:00",
+  "completed_at": "2026-08-15T00:00:00"
+ },
+ {
+  "refund_id": "R29",
+  "order_id": "A10260",
+  "amount": 895.26,
+  "reason": "Change of mind",
+  "status": "Approved",
+  "initiated_at": "2026-09-16T00:00:00",
+  "completed_at": null
+ },
+ {
+  "refund_id": "R30",
+  "order_id": "A10267",
+  "amount": 594.13,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-06-26T00:00:00",
+  "completed_at": "2026-07-02T00:00:00"
+ },
+ {
+  "refund_id": "R31",
+  "order_id": "A10269",
+  "amount": 1066.65,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-14T00:00:00",
+  "completed_at": "2026-09-20T00:00:00"
+ },
+ {
+  "refund_id": "R32",
+  "order_id": "A10272",
+  "amount": 273.04,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-19T00:00:00",
+  "completed_at": "2026-08-25T00:00:00"
+ },
+ {
+  "refund_id": "R33",
+  "order_id": "A10304",
+  "amount": 504.72,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-04T00:00:00",
+  "completed_at": "2026-09-10T00:00:00"
+ },
+ {
+  "refund_id": "R34",
+  "order_id": "A10309",
+  "amount": 446.49,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-26T00:00:00",
+  "completed_at": "2026-09-01T00:00:00"
+ },
+ {
+  "refund_id": "R35",
+  "order_id": "A10316",
+  "amount": 966.54,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-11T00:00:00",
+  "completed_at": "2026-08-17T00:00:00"
+ },
+ {
+  "refund_id": "R36",
+  "order_id": "A10322",
+  "amount": 358.42,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-25T00:00:00",
+  "completed_at": "2026-10-01T00:00:00"
+ },
+ {
+  "refund_id": "R37",
+  "order_id": "A10336",
+  "amount": 299.9,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-02T00:00:00",
+  "completed_at": "2026-08-08T00:00:00"
+ },
+ {
+  "refund_id": "R38",
+  "order_id": "A10346",
+  "amount": 37.19,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-30T00:00:00",
+  "completed_at": "2026-09-05T00:00:00"
+ },
+ {
+  "refund_id": "R39",
+  "order_id": "A10352",
+  "amount": 1625.07,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-24T00:00:00",
+  "completed_at": "2026-08-30T00:00:00"
+ },
+ {
+  "refund_id": "R40",
+  "order_id": "A10356",
+  "amount": 244.11,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-05T00:00:00",
+  "completed_at": "2026-07-11T00:00:00"
+ },
+ {
+  "refund_id": "R41",
+  "order_id": "A10357",
+  "amount": 116.84,
+  "reason": "Change of mind",
+  "status": "Approved",
+  "initiated_at": "2026-09-17T00:00:00",
+  "completed_at": null
+ },
+ {
+  "refund_id": "R42",
+  "order_id": "A10358",
+  "amount": 273.99,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-23T00:00:00",
+  "completed_at": "2026-07-29T00:00:00"
+ },
+ {
+  "refund_id": "R43",
+  "order_id": "A10360",
+  "amount": 760.16,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-06-28T00:00:00",
+  "completed_at": "2026-07-04T00:00:00"
+ },
+ {
+  "refund_id": "R44",
+  "order_id": "A10363",
+  "amount": 856.05,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-18T00:00:00",
+  "completed_at": "2026-09-24T00:00:00"
+ },
+ {
+  "refund_id": "R45",
+  "order_id": "A10368",
+  "amount": 780.7,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-01T00:00:00",
+  "completed_at": "2026-07-07T00:00:00"
+ },
+ {
+  "refund_id": "R46",
+  "order_id": "A10374",
+  "amount": 1490.82,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-17T00:00:00",
+  "completed_at": "2026-08-23T00:00:00"
+ },
+ {
+  "refund_id": "R47",
+  "order_id": "A10392",
+  "amount": 433.98,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-20T00:00:00",
+  "completed_at": "2026-09-26T00:00:00"
+ },
+ {
+  "refund_id": "R48",
+  "order_id": "A10408",
+  "amount": 463.96,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-24T00:00:00",
+  "completed_at": "2026-08-30T00:00:00"
+ },
+ {
+  "refund_id": "R49",
+  "order_id": "A10414",
+  "amount": 452.73,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-07-24T00:00:00",
+  "completed_at": "2026-07-30T00:00:00"
+ },
+ {
+  "refund_id": "R50",
+  "order_id": "A10419",
+  "amount": 380.44,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-12T00:00:00",
+  "completed_at": "2026-09-18T00:00:00"
+ },
+ {
+  "refund_id": "R51",
+  "order_id": "A10422",
+  "amount": 616.17,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-24T00:00:00",
+  "completed_at": "2026-09-30T00:00:00"
+ },
+ {
+  "refund_id": "R52",
+  "order_id": "A10425",
+  "amount": 384.0,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-20T00:00:00",
+  "completed_at": "2026-08-26T00:00:00"
+ },
+ {
+  "refund_id": "R53",
+  "order_id": "A10433",
+  "amount": 78.12,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-06T00:00:00",
+  "completed_at": "2026-08-12T00:00:00"
+ },
+ {
+  "refund_id": "R54",
+  "order_id": "A10441",
+  "amount": 96.45,
+  "reason": "Wrong product received",
+  "status": "Approved",
+  "initiated_at": "2026-09-25T00:00:00",
+  "completed_at": null
+ },
+ {
+  "refund_id": "R55",
+  "order_id": "A10460",
+  "amount": 85.17,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-22T00:00:00",
+  "completed_at": "2026-09-28T00:00:00"
+ },
+ {
+  "refund_id": "R56",
+  "order_id": "A10467",
+  "amount": 1943.4,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-25T00:00:00",
+  "completed_at": "2026-08-31T00:00:00"
+ },
+ {
+  "refund_id": "R57",
+  "order_id": "A10470",
+  "amount": 310.54,
+  "reason": "Item damaged on arrival",
+  "status": "Completed",
+  "initiated_at": "2026-09-19T00:00:00",
+  "completed_at": "2026-09-25T00:00:00"
+ },
+ {
+  "refund_id": "R58",
+  "order_id": "A10472",
+  "amount": 67.8,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-15T00:00:00",
+  "completed_at": "2026-09-21T00:00:00"
+ },
+ {
+  "refund_id": "R59",
+  "order_id": "A10477",
+  "amount": 2085.64,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-06T00:00:00",
+  "completed_at": "2026-09-12T00:00:00"
+ },
+ {
+  "refund_id": "R60",
+  "order_id": "A10479",
+  "amount": 711.89,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-19T00:00:00",
+  "completed_at": "2026-09-25T00:00:00"
+ },
+ {
+  "refund_id": "R61",
+  "order_id": "A10483",
+  "amount": 224.7,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-05T00:00:00",
+  "completed_at": "2026-09-11T00:00:00"
+ },
+ {
+  "refund_id": "R62",
+  "order_id": "A10486",
+  "amount": 45.48,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-27T00:00:00",
+  "completed_at": "2026-10-03T00:00:00"
+ },
+ {
+  "refund_id": "R63",
+  "order_id": "A10491",
+  "amount": 899.01,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-12T00:00:00",
+  "completed_at": "2026-09-18T00:00:00"
+ },
+ {
+  "refund_id": "R64",
+  "order_id": "A10499",
+  "amount": 1122.97,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-23T00:00:00",
+  "completed_at": "2026-08-29T00:00:00"
+ },
+ {
+  "refund_id": "R65",
+  "order_id": "A10500",
+  "amount": 2091.0,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-15T00:00:00",
+  "completed_at": "2026-08-21T00:00:00"
+ },
+ {
+  "refund_id": "R66",
+  "order_id": "A10508",
+  "amount": 1681.52,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-06T00:00:00",
+  "completed_at": "2026-07-12T00:00:00"
+ },
+ {
+  "refund_id": "R67",
+  "order_id": "A10511",
+  "amount": 2160.19,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-22T00:00:00",
+  "completed_at": "2026-07-28T00:00:00"
+ },
+ {
+  "refund_id": "R68",
+  "order_id": "A10523",
+  "amount": 681.79,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-08T00:00:00",
+  "completed_at": "2026-08-14T00:00:00"
+ },
+ {
+  "refund_id": "R69",
+  "order_id": "A10534",
+  "amount": 1125.36,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-07-27T00:00:00",
+  "completed_at": "2026-08-02T00:00:00"
+ },
+ {
+  "refund_id": "R70",
+  "order_id": "A10535",
+  "amount": 192.3,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-04T00:00:00",
+  "completed_at": "2026-09-10T00:00:00"
+ },
+ {
+  "refund_id": "R71",
+  "order_id": "A10541",
+  "amount": 1387.56,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-13T00:00:00",
+  "completed_at": "2026-09-19T00:00:00"
+ },
+ {
+  "refund_id": "R72",
+  "order_id": "A10549",
+  "amount": 16.28,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-26T00:00:00",
+  "completed_at": "2026-09-01T00:00:00"
+ },
+ {
+  "refund_id": "R73",
+  "order_id": "A10550",
+  "amount": 571.3,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-07-27T00:00:00",
+  "completed_at": "2026-08-02T00:00:00"
+ },
+ {
+  "refund_id": "R74",
+  "order_id": "A10552",
+  "amount": 264.96,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-07-23T00:00:00",
+  "completed_at": "2026-07-29T00:00:00"
+ },
+ {
+  "refund_id": "R75",
+  "order_id": "A10560",
+  "amount": 536.88,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-17T00:00:00",
+  "completed_at": "2026-08-23T00:00:00"
+ },
+ {
+  "refund_id": "R76",
+  "order_id": "A10563",
+  "amount": 892.65,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-12T00:00:00",
+  "completed_at": "2026-08-18T00:00:00"
+ },
+ {
+  "refund_id": "R77",
+  "order_id": "A10568",
+  "amount": 354.23,
+  "reason": "Item damaged on arrival",
+  "status": "Approved",
+  "initiated_at": "2026-09-27T00:00:00",
+  "completed_at": null
+ },
+ {
+  "refund_id": "R78",
+  "order_id": "A10569",
+  "amount": 697.75,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-25T00:00:00",
+  "completed_at": "2026-10-01T00:00:00"
+ },
+ {
+  "refund_id": "R79",
+  "order_id": "A10581",
+  "amount": 249.72,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-03T00:00:00",
+  "completed_at": "2026-09-09T00:00:00"
+ },
+ {
+  "refund_id": "R80",
+  "order_id": "A10585",
+  "amount": 61.48,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-26T00:00:00",
+  "completed_at": "2026-09-01T00:00:00"
+ },
+ {
+  "refund_id": "R81",
+  "order_id": "A10589",
+  "amount": 2257.0,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-07T00:00:00",
+  "completed_at": "2026-09-13T00:00:00"
+ },
+ {
+  "refund_id": "R82",
+  "order_id": "A10594",
+  "amount": 28.79,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-09T00:00:00",
+  "completed_at": "2026-08-15T00:00:00"
+ },
+ {
+  "refund_id": "R83",
+  "order_id": "A10595",
+  "amount": 462.4,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-22T00:00:00",
+  "completed_at": "2026-09-28T00:00:00"
+ },
+ {
+  "refund_id": "R84",
+  "order_id": "A10600",
+  "amount": 273.99,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-07T00:00:00",
+  "completed_at": "2026-09-13T00:00:00"
+ },
+ {
+  "refund_id": "R85",
+  "order_id": "A10601",
+  "amount": 173.24,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-26T00:00:00",
+  "completed_at": "2026-08-01T00:00:00"
+ },
+ {
+  "refund_id": "R86",
+  "order_id": "A10624",
+  "amount": 46.17,
+  "reason": "Wrong product received",
+  "status": "Rejected",
+  "initiated_at": "2026-09-23T00:00:00",
+  "completed_at": null
+ },
+ {
+  "refund_id": "R87",
+  "order_id": "A10625",
+  "amount": 285.35,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-18T00:00:00",
+  "completed_at": "2026-07-24T00:00:00"
+ },
+ {
+  "refund_id": "R88",
+  "order_id": "A10631",
+  "amount": 31.21,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-07-26T00:00:00",
+  "completed_at": "2026-08-01T00:00:00"
+ },
+ {
+  "refund_id": "R89",
+  "order_id": "A10633",
+  "amount": 244.11,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-11T00:00:00",
+  "completed_at": "2026-07-17T00:00:00"
+ },
+ {
+  "refund_id": "R90",
+  "order_id": "A10643",
+  "amount": 580.8,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-11T00:00:00",
+  "completed_at": "2026-08-17T00:00:00"
+ },
+ {
+  "refund_id": "R91",
+  "order_id": "A10649",
+  "amount": 525.4,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-09T00:00:00",
+  "completed_at": "2026-08-15T00:00:00"
+ },
+ {
+  "refund_id": "R92",
+  "order_id": "A10657",
+  "amount": 458.09,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-18T00:00:00",
+  "completed_at": "2026-07-24T00:00:00"
+ },
+ {
+  "refund_id": "R93",
+  "order_id": "A10661",
+  "amount": 166.48,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-13T00:00:00",
+  "completed_at": "2026-07-19T00:00:00"
+ },
+ {
+  "refund_id": "R94",
+  "order_id": "A10662",
+  "amount": 568.2,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-27T00:00:00",
+  "completed_at": "2026-09-02T00:00:00"
+ },
+ {
+  "refund_id": "R95",
+  "order_id": "A10667",
+  "amount": 626.55,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-23T00:00:00",
+  "completed_at": "2026-09-29T00:00:00"
+ },
+ {
+  "refund_id": "R96",
+  "order_id": "A10670",
+  "amount": 336.64,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-07-28T00:00:00",
+  "completed_at": "2026-08-03T00:00:00"
+ },
+ {
+  "refund_id": "R97",
+  "order_id": "A10681",
+  "amount": 412.36,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-06T00:00:00",
+  "completed_at": "2026-07-12T00:00:00"
+ },
+ {
+  "refund_id": "R98",
+  "order_id": "A10683",
+  "amount": 2313.03,
+  "reason": "Item damaged on arrival",
+  "status": "Approved",
+  "initiated_at": "2026-09-14T00:00:00",
+  "completed_at": null
+ },
+ {
+  "refund_id": "R99",
+  "order_id": "A10688",
+  "amount": 1163.94,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-16T00:00:00",
+  "completed_at": "2026-09-22T00:00:00"
+ },
+ {
+  "refund_id": "R100",
+  "order_id": "A10689",
+  "amount": 182.99,
+  "reason": "Change of mind",
+  "status": "Approved",
+  "initiated_at": "2026-09-16T00:00:00",
+  "completed_at": null
+ },
+ {
+  "refund_id": "R101",
+  "order_id": "A10695",
+  "amount": 192.3,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-30T00:00:00",
+  "completed_at": "2026-09-05T00:00:00"
+ },
+ {
+  "refund_id": "R102",
+  "order_id": "A10696",
+  "amount": 321.66,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-25T00:00:00",
+  "completed_at": "2026-07-31T00:00:00"
+ },
+ {
+  "refund_id": "R103",
+  "order_id": "A10704",
+  "amount": 96.45,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-23T00:00:00",
+  "completed_at": "2026-07-29T00:00:00"
+ },
+ {
+  "refund_id": "R104",
+  "order_id": "A10744",
+  "amount": 2345.07,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-08T00:00:00",
+  "completed_at": "2026-08-14T00:00:00"
+ },
+ {
+  "refund_id": "R105",
+  "order_id": "A10756",
+  "amount": 496.94,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-28T00:00:00",
+  "completed_at": "2026-10-04T00:00:00"
+ },
+ {
+  "refund_id": "R106",
+  "order_id": "A10759",
+  "amount": 1896.65,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-04T00:00:00",
+  "completed_at": "2026-09-10T00:00:00"
+ },
+ {
+  "refund_id": "R107",
+  "order_id": "A10763",
+  "amount": 1471.42,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-06-29T00:00:00",
+  "completed_at": "2026-07-05T00:00:00"
+ },
+ {
+  "refund_id": "R108",
+  "order_id": "A10764",
+  "amount": 391.65,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-29T00:00:00",
+  "completed_at": "2026-09-04T00:00:00"
+ },
+ {
+  "refund_id": "R109",
+  "order_id": "A10768",
+  "amount": 466.41,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-08T00:00:00",
+  "completed_at": "2026-09-14T00:00:00"
+ },
+ {
+  "refund_id": "R110",
+  "order_id": "A10776",
+  "amount": 460.39,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-12T00:00:00",
+  "completed_at": "2026-08-18T00:00:00"
+ },
+ {
+  "refund_id": "R111",
+  "order_id": "A10780",
+  "amount": 244.37,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-16T00:00:00",
+  "completed_at": "2026-08-22T00:00:00"
+ },
+ {
+  "refund_id": "R112",
+  "order_id": "A10781",
+  "amount": 1454.86,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-27T00:00:00",
+  "completed_at": "2026-08-02T00:00:00"
+ },
+ {
+  "refund_id": "R113",
+  "order_id": "A10793",
+  "amount": 469.22,
+  "reason": "Wrong product received",
+  "status": "Initiated",
+  "initiated_at": "2026-09-27T00:00:00",
+  "completed_at": null
+ },
+ {
+  "refund_id": "R114",
+  "order_id": "A10796",
+  "amount": 1164.34,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-04T00:00:00",
+  "completed_at": "2026-07-10T00:00:00"
+ },
+ {
+  "refund_id": "R115",
+  "order_id": "A10804",
+  "amount": 852.95,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-01T00:00:00",
+  "completed_at": "2026-07-07T00:00:00"
+ },
+ {
+  "refund_id": "R116",
+  "order_id": "A10812",
+  "amount": 1503.27,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-16T00:00:00",
+  "completed_at": "2026-08-22T00:00:00"
+ },
+ {
+  "refund_id": "R117",
+  "order_id": "A10821",
+  "amount": 280.14,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-27T00:00:00",
+  "completed_at": "2026-10-03T00:00:00"
+ },
+ {
+  "refund_id": "R118",
+  "order_id": "A10822",
+  "amount": 212.72,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-05T00:00:00",
+  "completed_at": "2026-08-11T00:00:00"
+ },
+ {
+  "refund_id": "R119",
+  "order_id": "A10830",
+  "amount": 433.39,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-28T00:00:00",
+  "completed_at": "2026-10-04T00:00:00"
+ },
+ {
+  "refund_id": "R120",
+  "order_id": "A10831",
+  "amount": 1680.66,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-10T00:00:00",
+  "completed_at": "2026-08-16T00:00:00"
+ },
+ {
+  "refund_id": "R121",
+  "order_id": "A10836",
+  "amount": 672.91,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-10T00:00:00",
+  "completed_at": "2026-09-16T00:00:00"
+ },
+ {
+  "refund_id": "R122",
+  "order_id": "A10840",
+  "amount": 321.8,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-07T00:00:00",
+  "completed_at": "2026-08-13T00:00:00"
+ },
+ {
+  "refund_id": "R123",
+  "order_id": "A10843",
+  "amount": 530.15,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-06-25T00:00:00",
+  "completed_at": "2026-07-01T00:00:00"
+ },
+ {
+  "refund_id": "R124",
+  "order_id": "A10848",
+  "amount": 768.43,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-21T00:00:00",
+  "completed_at": "2026-08-27T00:00:00"
+ },
+ {
+  "refund_id": "R125",
+  "order_id": "A10850",
+  "amount": 50.57,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-12T00:00:00",
+  "completed_at": "2026-09-18T00:00:00"
+ },
+ {
+  "refund_id": "R126",
+  "order_id": "A10852",
+  "amount": 316.51,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-18T00:00:00",
+  "completed_at": "2026-07-24T00:00:00"
+ },
+ {
+  "refund_id": "R127",
+  "order_id": "A10853",
+  "amount": 180.69,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-15T00:00:00",
+  "completed_at": "2026-08-21T00:00:00"
+ },
+ {
+  "refund_id": "R128",
+  "order_id": "A10854",
+  "amount": 260.4,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-06-30T00:00:00",
+  "completed_at": "2026-07-06T00:00:00"
+ },
+ {
+  "refund_id": "R129",
+  "order_id": "A10857",
+  "amount": 782.25,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-20T00:00:00",
+  "completed_at": "2026-07-26T00:00:00"
+ },
+ {
+  "refund_id": "R130",
+  "order_id": "A10862",
+  "amount": 380.67,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-07-29T00:00:00",
+  "completed_at": "2026-08-04T00:00:00"
+ },
+ {
+  "refund_id": "R131",
+  "order_id": "A10864",
+  "amount": 916.18,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-02T00:00:00",
+  "completed_at": "2026-07-08T00:00:00"
+ },
+ {
+  "refund_id": "R132",
+  "order_id": "A10865",
+  "amount": 1253.1,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-13T00:00:00",
+  "completed_at": "2026-09-19T00:00:00"
+ },
+ {
+  "refund_id": "R133",
+  "order_id": "A10871",
+  "amount": 146.88,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-01T00:00:00",
+  "completed_at": "2026-07-07T00:00:00"
+ },
+ {
+  "refund_id": "R134",
+  "order_id": "A10886",
+  "amount": 294.09,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-26T00:00:00",
+  "completed_at": "2026-10-02T00:00:00"
+ },
+ {
+  "refund_id": "R135",
+  "order_id": "A10893",
+  "amount": 560.7,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-02T00:00:00",
+  "completed_at": "2026-07-08T00:00:00"
+ },
+ {
+  "refund_id": "R136",
+  "order_id": "A10897",
+  "amount": 376.56,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-02T00:00:00",
+  "completed_at": "2026-09-08T00:00:00"
+ },
+ {
+  "refund_id": "R137",
+  "order_id": "A10902",
+  "amount": 1208.31,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-15T00:00:00",
+  "completed_at": "2026-08-21T00:00:00"
+ },
+ {
+  "refund_id": "R138",
+  "order_id": "A10911",
+  "amount": 2735.4,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-12T00:00:00",
+  "completed_at": "2026-07-18T00:00:00"
+ },
+ {
+  "refund_id": "R139",
+  "order_id": "A10926",
+  "amount": 347.37,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-09T00:00:00",
+  "completed_at": "2026-09-15T00:00:00"
+ },
+ {
+  "refund_id": "R140",
+  "order_id": "A10939",
+  "amount": 1568.94,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-03T00:00:00",
+  "completed_at": "2026-09-09T00:00:00"
+ },
+ {
+  "refund_id": "R141",
+  "order_id": "A10950",
+  "amount": 280.14,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-24T00:00:00",
+  "completed_at": "2026-07-30T00:00:00"
+ },
+ {
+  "refund_id": "R142",
+  "order_id": "A10951",
+  "amount": 263.79,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-08T00:00:00",
+  "completed_at": "2026-07-14T00:00:00"
+ },
+ {
+  "refund_id": "R143",
+  "order_id": "A10952",
+  "amount": 1059.2,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-05T00:00:00",
+  "completed_at": "2026-08-11T00:00:00"
+ },
+ {
+  "refund_id": "R144",
+  "order_id": "A10959",
+  "amount": 241.77,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-14T00:00:00",
+  "completed_at": "2026-07-20T00:00:00"
+ },
+ {
+  "refund_id": "R145",
+  "order_id": "A10961",
+  "amount": 712.04,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-21T00:00:00",
+  "completed_at": "2026-08-27T00:00:00"
+ },
+ {
+  "refund_id": "R146",
+  "order_id": "A10963",
+  "amount": 253.64,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-05T00:00:00",
+  "completed_at": "2026-09-11T00:00:00"
+ },
+ {
+  "refund_id": "R147",
+  "order_id": "A10964",
+  "amount": 2344.9,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-21T00:00:00",
+  "completed_at": "2026-08-27T00:00:00"
+ },
+ {
+  "refund_id": "R148",
+  "order_id": "A10968",
+  "amount": 716.84,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-23T00:00:00",
+  "completed_at": "2026-07-29T00:00:00"
+ },
+ {
+  "refund_id": "R149",
+  "order_id": "A10977",
+  "amount": 1520.54,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-28T00:00:00",
+  "completed_at": "2026-08-03T00:00:00"
+ },
+ {
+  "refund_id": "R150",
+  "order_id": "A10994",
+  "amount": 876.34,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-28T00:00:00",
+  "completed_at": "2026-09-03T00:00:00"
+ },
+ {
+  "refund_id": "R151",
+  "order_id": "A11003",
+  "amount": 1230.21,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-07T00:00:00",
+  "completed_at": "2026-07-13T00:00:00"
+ },
+ {
+  "refund_id": "R152",
+  "order_id": "A11011",
+  "amount": 58.42,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-07-23T00:00:00",
+  "completed_at": "2026-07-29T00:00:00"
+ },
+ {
+  "refund_id": "R153",
+  "order_id": "A11015",
+  "amount": 918.32,
+  "reason": "Wrong product received",
+  "status": "Initiated",
+  "initiated_at": "2026-09-19T00:00:00",
+  "completed_at": null
+ },
+ {
+  "refund_id": "R154",
+  "order_id": "A11019",
+  "amount": 593.25,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-27T00:00:00",
+  "completed_at": "2026-08-02T00:00:00"
+ },
+ {
+  "refund_id": "R155",
+  "order_id": "A11023",
+  "amount": 1089.99,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-09T00:00:00",
+  "completed_at": "2026-08-15T00:00:00"
+ },
+ {
+  "refund_id": "R156",
+  "order_id": "A11026",
+  "amount": 141.48,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-13T00:00:00",
+  "completed_at": "2026-09-19T00:00:00"
+ },
+ {
+  "refund_id": "R157",
+  "order_id": "A11027",
+  "amount": 1322.25,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-07-18T00:00:00",
+  "completed_at": "2026-07-24T00:00:00"
+ },
+ {
+  "refund_id": "R158",
+  "order_id": "A11028",
+  "amount": 978.45,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-25T00:00:00",
+  "completed_at": "2026-07-31T00:00:00"
+ },
+ {
+  "refund_id": "R159",
+  "order_id": "A11043",
+  "amount": 358.42,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-01T00:00:00",
+  "completed_at": "2026-09-07T00:00:00"
+ },
+ {
+  "refund_id": "R160",
+  "order_id": "A11046",
+  "amount": 875.14,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-24T00:00:00",
+  "completed_at": "2026-08-30T00:00:00"
+ },
+ {
+  "refund_id": "R161",
+  "order_id": "A11057",
+  "amount": 152.13,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-12T00:00:00",
+  "completed_at": "2026-09-18T00:00:00"
+ },
+ {
+  "refund_id": "R162",
+  "order_id": "A11065",
+  "amount": 14.58,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-16T00:00:00",
+  "completed_at": "2026-07-22T00:00:00"
+ },
+ {
+  "refund_id": "R163",
+  "order_id": "A11068",
+  "amount": 283.57,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-22T00:00:00",
+  "completed_at": "2026-08-28T00:00:00"
+ },
+ {
+  "refund_id": "R164",
+  "order_id": "A11071",
+  "amount": 85.17,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-01T00:00:00",
+  "completed_at": "2026-07-07T00:00:00"
+ },
+ {
+  "refund_id": "R165",
+  "order_id": "A11079",
+  "amount": 61.48,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-08T00:00:00",
+  "completed_at": "2026-08-14T00:00:00"
+ },
+ {
+  "refund_id": "R166",
+  "order_id": "A11086",
+  "amount": 1720.8,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-23T00:00:00",
+  "completed_at": "2026-08-29T00:00:00"
+ },
+ {
+  "refund_id": "R167",
+  "order_id": "A11102",
+  "amount": 13.92,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-02T00:00:00",
+  "completed_at": "2026-09-08T00:00:00"
+ },
+ {
+  "refund_id": "R168",
+  "order_id": "A11104",
+  "amount": 438.72,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-07-30T00:00:00",
+  "completed_at": "2026-08-05T00:00:00"
+ },
+ {
+  "refund_id": "R169",
+  "order_id": "A11106",
+  "amount": 663.46,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-23T00:00:00",
+  "completed_at": "2026-07-29T00:00:00"
+ },
+ {
+  "refund_id": "R170",
+  "order_id": "A11118",
+  "amount": 81.06,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-14T00:00:00",
+  "completed_at": "2026-07-20T00:00:00"
+ },
+ {
+  "refund_id": "R171",
+  "order_id": "A11123",
+  "amount": 676.4,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-02T00:00:00",
+  "completed_at": "2026-08-08T00:00:00"
+ },
+ {
+  "refund_id": "R172",
+  "order_id": "A11137",
+  "amount": 268.44,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-07T00:00:00",
+  "completed_at": "2026-09-13T00:00:00"
+ },
+ {
+  "refund_id": "R173",
+  "order_id": "A11157",
+  "amount": 726.66,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-06T00:00:00",
+  "completed_at": "2026-09-12T00:00:00"
+ },
+ {
+  "refund_id": "R174",
+  "order_id": "A11166",
+  "amount": 1290.07,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-31T00:00:00",
+  "completed_at": "2026-09-06T00:00:00"
+ },
+ {
+  "refund_id": "R175",
+  "order_id": "A11170",
+  "amount": 94.32,
+  "reason": "Change of mind",
+  "status": "Initiated",
+  "initiated_at": "2026-09-13T00:00:00",
+  "completed_at": null
+ },
+ {
+  "refund_id": "R176",
+  "order_id": "A11180",
+  "amount": 399.86,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-13T00:00:00",
+  "completed_at": "2026-08-19T00:00:00"
+ },
+ {
+  "refund_id": "R177",
+  "order_id": "A11187",
+  "amount": 1210.14,
+  "reason": "Item damaged on arrival",
+  "status": "Completed",
+  "initiated_at": "2026-09-28T00:00:00",
+  "completed_at": "2026-10-04T00:00:00"
+ },
+ {
+  "refund_id": "R178",
+  "order_id": "A11191",
+  "amount": 35.73,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-22T00:00:00",
+  "completed_at": "2026-09-28T00:00:00"
+ },
+ {
+  "refund_id": "R179",
+  "order_id": "A11194",
+  "amount": 2063.21,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-14T00:00:00",
+  "completed_at": "2026-08-20T00:00:00"
+ },
+ {
+  "refund_id": "R180",
+  "order_id": "A11198",
+  "amount": 788.1,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-19T00:00:00",
+  "completed_at": "2026-09-25T00:00:00"
+ },
+ {
+  "refund_id": "R181",
+  "order_id": "A11225",
+  "amount": 54.04,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-06T00:00:00",
+  "completed_at": "2026-08-12T00:00:00"
+ },
+ {
+  "refund_id": "R182",
+  "order_id": "A11230",
+  "amount": 1249.66,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-01T00:00:00",
+  "completed_at": "2026-08-07T00:00:00"
+ },
+ {
+  "refund_id": "R183",
+  "order_id": "A11232",
+  "amount": 268.44,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-21T00:00:00",
+  "completed_at": "2026-09-27T00:00:00"
+ },
+ {
+  "refund_id": "R184",
+  "order_id": "A11233",
+  "amount": 1720.8,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-16T00:00:00",
+  "completed_at": "2026-09-22T00:00:00"
+ },
+ {
+  "refund_id": "R185",
+  "order_id": "A11239",
+  "amount": 1018.66,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-13T00:00:00",
+  "completed_at": "2026-08-19T00:00:00"
+ },
+ {
+  "refund_id": "R186",
+  "order_id": "A11244",
+  "amount": 237.21,
+  "reason": "Item damaged on arrival",
+  "status": "Rejected",
+  "initiated_at": "2026-09-20T00:00:00",
+  "completed_at": null
+ },
+ {
+  "refund_id": "R187",
+  "order_id": "A11255",
+  "amount": 161.76,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-29T00:00:00",
+  "completed_at": "2026-09-04T00:00:00"
+ },
+ {
+  "refund_id": "R188",
+  "order_id": "A11266",
+  "amount": 320.8,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-28T00:00:00",
+  "completed_at": "2026-09-03T00:00:00"
+ },
+ {
+  "refund_id": "R189",
+  "order_id": "A11268",
+  "amount": 496.94,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-23T00:00:00",
+  "completed_at": "2026-07-29T00:00:00"
+ },
+ {
+  "refund_id": "R190",
+  "order_id": "A11274",
+  "amount": 827.88,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-11T00:00:00",
+  "completed_at": "2026-09-17T00:00:00"
+ },
+ {
+  "refund_id": "R191",
+  "order_id": "A11278",
+  "amount": 1610.61,
+  "reason": "Change of mind",
+  "status": "Initiated",
+  "initiated_at": "2026-09-26T00:00:00",
+  "completed_at": null
+ },
+ {
+  "refund_id": "R192",
+  "order_id": "A11283",
+  "amount": 56.78,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-24T00:00:00",
+  "completed_at": "2026-09-30T00:00:00"
+ },
+ {
+  "refund_id": "R193",
+  "order_id": "A11296",
+  "amount": 1011.45,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-31T00:00:00",
+  "completed_at": "2026-09-06T00:00:00"
+ },
+ {
+  "refund_id": "R194",
+  "order_id": "A11300",
+  "amount": 438.72,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-07T00:00:00",
+  "completed_at": "2026-07-13T00:00:00"
+ },
+ {
+  "refund_id": "R195",
+  "order_id": "A11302",
+  "amount": 1014.6,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-02T00:00:00",
+  "completed_at": "2026-09-08T00:00:00"
+ },
+ {
+  "refund_id": "R196",
+  "order_id": "A11305",
+  "amount": 50.19,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-13T00:00:00",
+  "completed_at": "2026-09-19T00:00:00"
+ },
+ {
+  "refund_id": "R197",
+  "order_id": "A11311",
+  "amount": 626.57,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-09T00:00:00",
+  "completed_at": "2026-08-15T00:00:00"
+ },
+ {
+  "refund_id": "R198",
+  "order_id": "A11320",
+  "amount": 485.28,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-07T00:00:00",
+  "completed_at": "2026-08-13T00:00:00"
+ },
+ {
+  "refund_id": "R199",
+  "order_id": "A11327",
+  "amount": 425.89,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-15T00:00:00",
+  "completed_at": "2026-09-21T00:00:00"
+ },
+ {
+  "refund_id": "R200",
+  "order_id": "A11329",
+  "amount": 1354.5,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-07T00:00:00",
+  "completed_at": "2026-09-13T00:00:00"
+ },
+ {
+  "refund_id": "R201",
+  "order_id": "A11330",
+  "amount": 399.15,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-05T00:00:00",
+  "completed_at": "2026-08-11T00:00:00"
+ },
+ {
+  "refund_id": "R202",
+  "order_id": "A11332",
+  "amount": 492.57,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-29T00:00:00",
+  "completed_at": "2026-09-04T00:00:00"
+ },
+ {
+  "refund_id": "R203",
+  "order_id": "A11349",
+  "amount": 1633.54,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-06-23T00:00:00",
+  "completed_at": "2026-06-29T00:00:00"
+ },
+ {
+  "refund_id": "R204",
+  "order_id": "A11356",
+  "amount": 280.88,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-15T00:00:00",
+  "completed_at": "2026-09-21T00:00:00"
+ },
+ {
+  "refund_id": "R205",
+  "order_id": "A11357",
+  "amount": 363.33,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-01T00:00:00",
+  "completed_at": "2026-08-07T00:00:00"
+ },
+ {
+  "refund_id": "R206",
+  "order_id": "A11359",
+  "amount": 255.42,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-23T00:00:00",
+  "completed_at": "2026-07-29T00:00:00"
+ },
+ {
+  "refund_id": "R207",
+  "order_id": "A11362",
+  "amount": 80.68,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-26T00:00:00",
+  "completed_at": "2026-09-01T00:00:00"
+ },
+ {
+  "refund_id": "R208",
+  "order_id": "A11370",
+  "amount": 570.66,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-17T00:00:00",
+  "completed_at": "2026-09-23T00:00:00"
+ },
+ {
+  "refund_id": "R209",
+  "order_id": "A11377",
+  "amount": 169.45,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-07-17T00:00:00",
+  "completed_at": "2026-07-23T00:00:00"
+ },
+ {
+  "refund_id": "R210",
+  "order_id": "A11380",
+  "amount": 1017.51,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-26T00:00:00",
+  "completed_at": "2026-10-02T00:00:00"
+ },
+ {
+  "refund_id": "R211",
+  "order_id": "A11390",
+  "amount": 170.28,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-10T00:00:00",
+  "completed_at": "2026-08-16T00:00:00"
+ },
+ {
+  "refund_id": "R212",
+  "order_id": "A11395",
+  "amount": 626.55,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-17T00:00:00",
+  "completed_at": "2026-07-23T00:00:00"
+ },
+ {
+  "refund_id": "R213",
+  "order_id": "A11399",
+  "amount": 597.64,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-19T00:00:00",
+  "completed_at": "2026-08-25T00:00:00"
+ },
+ {
+  "refund_id": "R214",
+  "order_id": "A11400",
+  "amount": 1821.8,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-22T00:00:00",
+  "completed_at": "2026-07-28T00:00:00"
+ },
+ {
+  "refund_id": "R215",
+  "order_id": "A11401",
+  "amount": 1002.18,
+  "reason": "Wrong product received",
+  "status": "Rejected",
+  "initiated_at": "2026-09-16T00:00:00",
+  "completed_at": null
+ },
+ {
+  "refund_id": "R216",
+  "order_id": "A11402",
+  "amount": 1519.9,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-27T00:00:00",
+  "completed_at": "2026-08-02T00:00:00"
+ },
+ {
+  "refund_id": "R217",
+  "order_id": "A11403",
+  "amount": 177.1,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-03T00:00:00",
+  "completed_at": "2026-08-09T00:00:00"
+ },
+ {
+  "refund_id": "R218",
+  "order_id": "A11405",
+  "amount": 1153.46,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-17T00:00:00",
+  "completed_at": "2026-09-23T00:00:00"
+ },
+ {
+  "refund_id": "R219",
+  "order_id": "A11409",
+  "amount": 446.49,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-13T00:00:00",
+  "completed_at": "2026-09-19T00:00:00"
+ },
+ {
+  "refund_id": "R220",
+  "order_id": "A11411",
+  "amount": 905.2,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-09T00:00:00",
+  "completed_at": "2026-09-15T00:00:00"
+ },
+ {
+  "refund_id": "R221",
+  "order_id": "A11418",
+  "amount": 192.3,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-16T00:00:00",
+  "completed_at": "2026-09-22T00:00:00"
+ },
+ {
+  "refund_id": "R222",
+  "order_id": "A11429",
+  "amount": 521.5,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-21T00:00:00",
+  "completed_at": "2026-09-27T00:00:00"
+ },
+ {
+  "refund_id": "R223",
+  "order_id": "A11430",
+  "amount": 75.01,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-15T00:00:00",
+  "completed_at": "2026-08-21T00:00:00"
+ },
+ {
+  "refund_id": "R224",
+  "order_id": "A11439",
+  "amount": 1441.09,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-26T00:00:00",
+  "completed_at": "2026-09-01T00:00:00"
+ },
+ {
+  "refund_id": "R225",
+  "order_id": "A11446",
+  "amount": 643.4,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-16T00:00:00",
+  "completed_at": "2026-08-22T00:00:00"
+ },
+ {
+  "refund_id": "R226",
+  "order_id": "A11448",
+  "amount": 86.78,
+  "reason": "Change of mind",
+  "status": "Approved",
+  "initiated_at": "2026-09-14T00:00:00",
+  "completed_at": null
+ },
+ {
+  "refund_id": "R227",
+  "order_id": "A11454",
+  "amount": 775.96,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-04T00:00:00",
+  "completed_at": "2026-09-10T00:00:00"
+ },
+ {
+  "refund_id": "R228",
+  "order_id": "A11467",
+  "amount": 551.06,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-17T00:00:00",
+  "completed_at": "2026-07-23T00:00:00"
+ },
+ {
+  "refund_id": "R229",
+  "order_id": "A11472",
+  "amount": 2250.56,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-07-27T00:00:00",
+  "completed_at": "2026-08-02T00:00:00"
+ },
+ {
+  "refund_id": "R230",
+  "order_id": "A11473",
+  "amount": 75.01,
+  "reason": "Wrong product received",
+  "status": "Rejected",
+  "initiated_at": "2026-09-27T00:00:00",
+  "completed_at": null
+ },
+ {
+  "refund_id": "R231",
+  "order_id": "A11475",
+  "amount": 2771.02,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-06-23T00:00:00",
+  "completed_at": "2026-06-29T00:00:00"
+ },
+ {
+  "refund_id": "R232",
+  "order_id": "A11477",
+  "amount": 706.94,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-27T00:00:00",
+  "completed_at": "2026-09-02T00:00:00"
+ },
+ {
+  "refund_id": "R233",
+  "order_id": "A11481",
+  "amount": 1409.9,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-07-18T00:00:00",
+  "completed_at": "2026-07-24T00:00:00"
+ },
+ {
+  "refund_id": "R234",
+  "order_id": "A11489",
+  "amount": 87.69,
+  "reason": "Item damaged on arrival",
+  "status": "Initiated",
+  "initiated_at": "2026-09-16T00:00:00",
+  "completed_at": null
+ },
+ {
+  "refund_id": "R235",
+  "order_id": "A11500",
+  "amount": 1564.49,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-18T00:00:00",
+  "completed_at": "2026-09-24T00:00:00"
+ },
+ {
+  "refund_id": "R236",
+  "order_id": "A11501",
+  "amount": 102.21,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-06-29T00:00:00",
+  "completed_at": "2026-07-05T00:00:00"
+ },
+ {
+  "refund_id": "R237",
+  "order_id": "A11506",
+  "amount": 146.39,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-19T00:00:00",
+  "completed_at": "2026-09-25T00:00:00"
+ },
+ {
+  "refund_id": "R238",
+  "order_id": "A11524",
+  "amount": 1045.96,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-23T00:00:00",
+  "completed_at": "2026-08-29T00:00:00"
+ },
+ {
+  "refund_id": "R239",
+  "order_id": "A11532",
+  "amount": 43.85,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-15T00:00:00",
+  "completed_at": "2026-09-21T00:00:00"
+ },
+ {
+  "refund_id": "R240",
+  "order_id": "A11544",
+  "amount": 151.7,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-26T00:00:00",
+  "completed_at": "2026-09-01T00:00:00"
+ },
+ {
+  "refund_id": "R241",
+  "order_id": "A11547",
+  "amount": 1047.27,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-07-18T00:00:00",
+  "completed_at": "2026-07-24T00:00:00"
+ },
+ {
+  "refund_id": "R242",
+  "order_id": "A11558",
+  "amount": 1671.85,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-09T00:00:00",
+  "completed_at": "2026-08-15T00:00:00"
+ },
+ {
+  "refund_id": "R243",
+  "order_id": "A11561",
+  "amount": 308.51,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-19T00:00:00",
+  "completed_at": "2026-08-25T00:00:00"
+ },
+ {
+  "refund_id": "R244",
+  "order_id": "A11569",
+  "amount": 711.1,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-07T00:00:00",
+  "completed_at": "2026-08-13T00:00:00"
+ },
+ {
+  "refund_id": "R245",
+  "order_id": "A11572",
+  "amount": 28.78,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-18T00:00:00",
+  "completed_at": "2026-08-24T00:00:00"
+ },
+ {
+  "refund_id": "R246",
+  "order_id": "A11581",
+  "amount": 48.05,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-27T00:00:00",
+  "completed_at": "2026-10-03T00:00:00"
+ },
+ {
+  "refund_id": "R247",
+  "order_id": "A11585",
+  "amount": 850.52,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-29T00:00:00",
+  "completed_at": "2026-09-04T00:00:00"
+ },
+ {
+  "refund_id": "R248",
+  "order_id": "A11593",
+  "amount": 1058.64,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-18T00:00:00",
+  "completed_at": "2026-09-24T00:00:00"
+ },
+ {
+  "refund_id": "R249",
+  "order_id": "A11596",
+  "amount": 221.31,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-07T00:00:00",
+  "completed_at": "2026-07-13T00:00:00"
+ },
+ {
+  "refund_id": "R250",
+  "order_id": "A11598",
+  "amount": 611.02,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-07T00:00:00",
+  "completed_at": "2026-09-13T00:00:00"
+ },
+ {
+  "refund_id": "R251",
+  "order_id": "A11602",
+  "amount": 757.08,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-03T00:00:00",
+  "completed_at": "2026-07-09T00:00:00"
+ },
+ {
+  "refund_id": "R252",
+  "order_id": "A11611",
+  "amount": 1179.91,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-26T00:00:00",
+  "completed_at": "2026-09-01T00:00:00"
+ },
+ {
+  "refund_id": "R253",
+  "order_id": "A11617",
+  "amount": 1712.74,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-20T00:00:00",
+  "completed_at": "2026-08-26T00:00:00"
+ },
+ {
+  "refund_id": "R254",
+  "order_id": "A11623",
+  "amount": 1180.94,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-14T00:00:00",
+  "completed_at": "2026-08-20T00:00:00"
+ },
+ {
+  "refund_id": "R255",
+  "order_id": "A11629",
+  "amount": 324.17,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-07-26T00:00:00",
+  "completed_at": "2026-08-01T00:00:00"
+ },
+ {
+  "refund_id": "R256",
+  "order_id": "A11643",
+  "amount": 121.47,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-20T00:00:00",
+  "completed_at": "2026-08-26T00:00:00"
+ },
+ {
+  "refund_id": "R257",
+  "order_id": "A11645",
+  "amount": 851.78,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-29T00:00:00",
+  "completed_at": "2026-09-04T00:00:00"
+ },
+ {
+  "refund_id": "R258",
+  "order_id": "A11646",
+  "amount": 1502.16,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-27T00:00:00",
+  "completed_at": "2026-09-02T00:00:00"
+ },
+ {
+  "refund_id": "R259",
+  "order_id": "A11651",
+  "amount": 231.5,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-14T00:00:00",
+  "completed_at": "2026-09-20T00:00:00"
+ },
+ {
+  "refund_id": "R260",
+  "order_id": "A11662",
+  "amount": 96.6,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-11T00:00:00",
+  "completed_at": "2026-08-17T00:00:00"
+ },
+ {
+  "refund_id": "R261",
+  "order_id": "A11668",
+  "amount": 2256.57,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-24T00:00:00",
+  "completed_at": "2026-08-30T00:00:00"
+ },
+ {
+  "refund_id": "R262",
+  "order_id": "A11671",
+  "amount": 805.32,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-06T00:00:00",
+  "completed_at": "2026-09-12T00:00:00"
+ },
+ {
+  "refund_id": "R263",
+  "order_id": "A11688",
+  "amount": 123.44,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-10T00:00:00",
+  "completed_at": "2026-07-16T00:00:00"
+ },
+ {
+  "refund_id": "R264",
+  "order_id": "A11691",
+  "amount": 231.98,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-31T00:00:00",
+  "completed_at": "2026-08-06T00:00:00"
+ },
+ {
+  "refund_id": "R265",
+  "order_id": "A11694",
+  "amount": 78.22,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-28T00:00:00",
+  "completed_at": "2026-10-04T00:00:00"
+ },
+ {
+  "refund_id": "R266",
+  "order_id": "A11728",
+  "amount": 96.45,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-28T00:00:00",
+  "completed_at": "2026-08-03T00:00:00"
+ },
+ {
+  "refund_id": "R267",
+  "order_id": "A11732",
+  "amount": 53.45,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-02T00:00:00",
+  "completed_at": "2026-09-08T00:00:00"
+ },
+ {
+  "refund_id": "R268",
+  "order_id": "A11739",
+  "amount": 573.6,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-16T00:00:00",
+  "completed_at": "2026-07-22T00:00:00"
+ },
+ {
+  "refund_id": "R269",
+  "order_id": "A11740",
+  "amount": 427.04,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-27T00:00:00",
+  "completed_at": "2026-10-03T00:00:00"
+ },
+ {
+  "refund_id": "R270",
+  "order_id": "A11741",
+  "amount": 12.92,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-27T00:00:00",
+  "completed_at": "2026-09-02T00:00:00"
+ },
+ {
+  "refund_id": "R271",
+  "order_id": "A11750",
+  "amount": 1374.27,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-24T00:00:00",
+  "completed_at": "2026-09-30T00:00:00"
+ },
+ {
+  "refund_id": "R272",
+  "order_id": "A11751",
+  "amount": 1700.34,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-14T00:00:00",
+  "completed_at": "2026-09-20T00:00:00"
+ },
+ {
+  "refund_id": "R273",
+  "order_id": "A11753",
+  "amount": 1671.59,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-22T00:00:00",
+  "completed_at": "2026-08-28T00:00:00"
+ },
+ {
+  "refund_id": "R274",
+  "order_id": "A11759",
+  "amount": 522.98,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-07-26T00:00:00",
+  "completed_at": "2026-08-01T00:00:00"
+ },
+ {
+  "refund_id": "R275",
+  "order_id": "A11770",
+  "amount": 13.99,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-26T00:00:00",
+  "completed_at": "2026-09-01T00:00:00"
+ },
+ {
+  "refund_id": "R276",
+  "order_id": "A11772",
+  "amount": 1361.12,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-21T00:00:00",
+  "completed_at": "2026-09-27T00:00:00"
+ },
+ {
+  "refund_id": "R277",
+  "order_id": "A11773",
+  "amount": 760.92,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-24T00:00:00",
+  "completed_at": "2026-09-30T00:00:00"
+ },
+ {
+  "refund_id": "R278",
+  "order_id": "A11775",
+  "amount": 630.47,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-10T00:00:00",
+  "completed_at": "2026-07-16T00:00:00"
+ },
+ {
+  "refund_id": "R279",
+  "order_id": "A11776",
+  "amount": 78.03,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-07T00:00:00",
+  "completed_at": "2026-08-13T00:00:00"
+ },
+ {
+  "refund_id": "R280",
+  "order_id": "A11785",
+  "amount": 135.89,
+  "reason": "Wrong product received",
+  "status": "Initiated",
+  "initiated_at": "2026-09-28T00:00:00",
+  "completed_at": null
+ },
+ {
+  "refund_id": "R281",
+  "order_id": "A11787",
+  "amount": 993.33,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-29T00:00:00",
+  "completed_at": "2026-08-04T00:00:00"
+ },
+ {
+  "refund_id": "R282",
+  "order_id": "A11790",
+  "amount": 3012.93,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-21T00:00:00",
+  "completed_at": "2026-09-27T00:00:00"
+ },
+ {
+  "refund_id": "R283",
+  "order_id": "A11796",
+  "amount": 327.87,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-08T00:00:00",
+  "completed_at": "2026-08-14T00:00:00"
+ },
+ {
+  "refund_id": "R284",
+  "order_id": "A11801",
+  "amount": 167.58,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-11T00:00:00",
+  "completed_at": "2026-08-17T00:00:00"
+ },
+ {
+  "refund_id": "R285",
+  "order_id": "A11821",
+  "amount": 1238.55,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-26T00:00:00",
+  "completed_at": "2026-10-02T00:00:00"
+ },
+ {
+  "refund_id": "R286",
+  "order_id": "A11831",
+  "amount": 75.01,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-09T00:00:00",
+  "completed_at": "2026-09-15T00:00:00"
+ },
+ {
+  "refund_id": "R287",
+  "order_id": "A11837",
+  "amount": 296.16,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-30T00:00:00",
+  "completed_at": "2026-09-05T00:00:00"
+ },
+ {
+  "refund_id": "R288",
+  "order_id": "A11838",
+  "amount": 353.35,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-07T00:00:00",
+  "completed_at": "2026-08-13T00:00:00"
+ },
+ {
+  "refund_id": "R289",
+  "order_id": "A11841",
+  "amount": 85.14,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-11T00:00:00",
+  "completed_at": "2026-08-17T00:00:00"
+ },
+ {
+  "refund_id": "R290",
+  "order_id": "A11843",
+  "amount": 1616.66,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-17T00:00:00",
+  "completed_at": "2026-09-23T00:00:00"
+ },
+ {
+  "refund_id": "R291",
+  "order_id": "A11845",
+  "amount": 75.01,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-06T00:00:00",
+  "completed_at": "2026-08-12T00:00:00"
+ },
+ {
+  "refund_id": "R292",
+  "order_id": "A11848",
+  "amount": 916.53,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-16T00:00:00",
+  "completed_at": "2026-09-22T00:00:00"
+ },
+ {
+  "refund_id": "R293",
+  "order_id": "A11855",
+  "amount": 16.89,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-06-26T00:00:00",
+  "completed_at": "2026-07-02T00:00:00"
+ },
+ {
+  "refund_id": "R294",
+  "order_id": "A11858",
+  "amount": 321.66,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-09T00:00:00",
+  "completed_at": "2026-09-15T00:00:00"
+ },
+ {
+  "refund_id": "R295",
+  "order_id": "A11864",
+  "amount": 691.57,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-22T00:00:00",
+  "completed_at": "2026-07-28T00:00:00"
+ },
+ {
+  "refund_id": "R296",
+  "order_id": "A11866",
+  "amount": 1604.16,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-17T00:00:00",
+  "completed_at": "2026-09-23T00:00:00"
+ },
+ {
+  "refund_id": "R297",
+  "order_id": "A11869",
+  "amount": 759.71,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-02T00:00:00",
+  "completed_at": "2026-08-08T00:00:00"
+ },
+ {
+  "refund_id": "R298",
+  "order_id": "A11880",
+  "amount": 249.72,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-13T00:00:00",
+  "completed_at": "2026-09-19T00:00:00"
+ },
+ {
+  "refund_id": "R299",
+  "order_id": "A11882",
+  "amount": 1548.82,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-01T00:00:00",
+  "completed_at": "2026-08-07T00:00:00"
+ },
+ {
+  "refund_id": "R300",
+  "order_id": "A11883",
+  "amount": 308.51,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-05T00:00:00",
+  "completed_at": "2026-07-11T00:00:00"
+ },
+ {
+  "refund_id": "R301",
+  "order_id": "A11885",
+  "amount": 50.19,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-03T00:00:00",
+  "completed_at": "2026-08-09T00:00:00"
+ },
+ {
+  "refund_id": "R302",
+  "order_id": "A11892",
+  "amount": 13.92,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-27T00:00:00",
+  "completed_at": "2026-09-02T00:00:00"
+ },
+ {
+  "refund_id": "R303",
+  "order_id": "A11895",
+  "amount": 204.26,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-10T00:00:00",
+  "completed_at": "2026-09-16T00:00:00"
+ },
+ {
+  "refund_id": "R304",
+  "order_id": "A11898",
+  "amount": 765.46,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-21T00:00:00",
+  "completed_at": "2026-08-27T00:00:00"
+ },
+ {
+  "refund_id": "R305",
+  "order_id": "A11900",
+  "amount": 2128.56,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-30T00:00:00",
+  "completed_at": "2026-09-05T00:00:00"
+ },
+ {
+  "refund_id": "R306",
+  "order_id": "A11907",
+  "amount": 264.96,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-21T00:00:00",
+  "completed_at": "2026-08-27T00:00:00"
+ },
+ {
+  "refund_id": "R307",
+  "order_id": "A11909",
+  "amount": 459.76,
+  "reason": "Wrong product received",
+  "status": "Approved",
+  "initiated_at": "2026-09-11T00:00:00",
+  "completed_at": null
+ },
+ {
+  "refund_id": "R308",
+  "order_id": "A11914",
+  "amount": 45.33,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-05T00:00:00",
+  "completed_at": "2026-09-11T00:00:00"
+ },
+ {
+  "refund_id": "R309",
+  "order_id": "A11918",
+  "amount": 564.84,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-21T00:00:00",
+  "completed_at": "2026-08-27T00:00:00"
+ },
+ {
+  "refund_id": "R310",
+  "order_id": "A11928",
+  "amount": 715.62,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-25T00:00:00",
+  "completed_at": "2026-07-31T00:00:00"
+ },
+ {
+  "refund_id": "R311",
+  "order_id": "A11937",
+  "amount": 56.78,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-21T00:00:00",
+  "completed_at": "2026-09-27T00:00:00"
+ },
+ {
+  "refund_id": "R312",
+  "order_id": "A11943",
+  "amount": 44.05,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-23T00:00:00",
+  "completed_at": "2026-09-29T00:00:00"
+ },
+ {
+  "refund_id": "R313",
+  "order_id": "A11948",
+  "amount": 583.86,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-17T00:00:00",
+  "completed_at": "2026-08-23T00:00:00"
+ },
+ {
+  "refund_id": "R314",
+  "order_id": "A11950",
+  "amount": 631.77,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-16T00:00:00",
+  "completed_at": "2026-09-22T00:00:00"
+ },
+ {
+  "refund_id": "R315",
+  "order_id": "A11971",
+  "amount": 424.34,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-07-28T00:00:00",
+  "completed_at": "2026-08-03T00:00:00"
+ },
+ {
+  "refund_id": "R316",
+  "order_id": "A11980",
+  "amount": 115.79,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-31T00:00:00",
+  "completed_at": "2026-08-06T00:00:00"
+ },
+ {
+  "refund_id": "R317",
+  "order_id": "A11981",
+  "amount": 775.93,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-03T00:00:00",
+  "completed_at": "2026-08-09T00:00:00"
+ },
+ {
+  "refund_id": "R318",
+  "order_id": "A11986",
+  "amount": 1051.29,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-19T00:00:00",
+  "completed_at": "2026-07-25T00:00:00"
+ },
+ {
+  "refund_id": "R319",
+  "order_id": "A11987",
+  "amount": 663.46,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-18T00:00:00",
+  "completed_at": "2026-09-24T00:00:00"
+ },
+ {
+  "refund_id": "R320",
+  "order_id": "A11990",
+  "amount": 1958.42,
+  "reason": "Item damaged on arrival",
+  "status": "Initiated",
+  "initiated_at": "2026-09-19T00:00:00",
+  "completed_at": null
+ },
+ {
+  "refund_id": "R321",
+  "order_id": "A11992",
+  "amount": 1248.4,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-16T00:00:00",
+  "completed_at": "2026-09-22T00:00:00"
+ },
+ {
+  "refund_id": "R322",
+  "order_id": "A11994",
+  "amount": 112.58,
+  "reason": "Item damaged on arrival",
+  "status": "Rejected",
+  "initiated_at": "2026-09-27T00:00:00",
+  "completed_at": null
+ },
+ {
+  "refund_id": "R323",
+  "order_id": "A12002",
+  "amount": 75.55,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-03T00:00:00",
+  "completed_at": "2026-07-09T00:00:00"
+ },
+ {
+  "refund_id": "R324",
+  "order_id": "A12003",
+  "amount": 436.15,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-06-25T00:00:00",
+  "completed_at": "2026-07-01T00:00:00"
+ },
+ {
+  "refund_id": "R325",
+  "order_id": "A12004",
+  "amount": 115.76,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-11T00:00:00",
+  "completed_at": "2026-07-17T00:00:00"
+ },
+ {
+  "refund_id": "R326",
+  "order_id": "A12005",
+  "amount": 305.51,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-19T00:00:00",
+  "completed_at": "2026-09-25T00:00:00"
+ },
+ {
+  "refund_id": "R327",
+  "order_id": "A12006",
+  "amount": 337.74,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-20T00:00:00",
+  "completed_at": "2026-08-26T00:00:00"
+ },
+ {
+  "refund_id": "R328",
+  "order_id": "A12007",
+  "amount": 53.45,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-11T00:00:00",
+  "completed_at": "2026-08-17T00:00:00"
+ },
+ {
+  "refund_id": "R329",
+  "order_id": "A12011",
+  "amount": 1295.29,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-28T00:00:00",
+  "completed_at": "2026-08-03T00:00:00"
+ },
+ {
+  "refund_id": "R330",
+  "order_id": "A12012",
+  "amount": 2022.12,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-02T00:00:00",
+  "completed_at": "2026-09-08T00:00:00"
+ },
+ {
+  "refund_id": "R331",
+  "order_id": "A12017",
+  "amount": 2894.25,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-07T00:00:00",
+  "completed_at": "2026-08-13T00:00:00"
+ },
+ {
+  "refund_id": "R332",
+  "order_id": "A12034",
+  "amount": 172.47,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-07-25T00:00:00",
+  "completed_at": "2026-07-31T00:00:00"
+ },
+ {
+  "refund_id": "R333",
+  "order_id": "A12046",
+  "amount": 835.59,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-07T00:00:00",
+  "completed_at": "2026-07-13T00:00:00"
+ },
+ {
+  "refund_id": "R334",
+  "order_id": "A12057",
+  "amount": 805.83,
+  "reason": "Change of mind",
+  "status": "Rejected",
+  "initiated_at": "2026-09-14T00:00:00",
+  "completed_at": null
+ },
+ {
+  "refund_id": "R335",
+  "order_id": "A12062",
+  "amount": 28.79,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-10T00:00:00",
+  "completed_at": "2026-08-16T00:00:00"
+ },
+ {
+  "refund_id": "R336",
+  "order_id": "A12064",
+  "amount": 1814.0,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-01T00:00:00",
+  "completed_at": "2026-09-07T00:00:00"
+ },
+ {
+  "refund_id": "R337",
+  "order_id": "A12066",
+  "amount": 194.56,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-13T00:00:00",
+  "completed_at": "2026-08-19T00:00:00"
+ },
+ {
+  "refund_id": "R338",
+  "order_id": "A12077",
+  "amount": 2003.53,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-03T00:00:00",
+  "completed_at": "2026-07-09T00:00:00"
+ },
+ {
+  "refund_id": "R339",
+  "order_id": "A12081",
+  "amount": 1521.56,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-04T00:00:00",
+  "completed_at": "2026-09-10T00:00:00"
+ },
+ {
+  "refund_id": "R340",
+  "order_id": "A12093",
+  "amount": 38.8,
+  "reason": "Wrong product received",
+  "status": "Initiated",
+  "initiated_at": "2026-09-20T00:00:00",
+  "completed_at": null
+ },
+ {
+  "refund_id": "R341",
+  "order_id": "A12101",
+  "amount": 672.81,
+  "reason": "Item damaged on arrival",
+  "status": "Completed",
+  "initiated_at": "2026-09-23T00:00:00",
+  "completed_at": "2026-09-29T00:00:00"
+ },
+ {
+  "refund_id": "R342",
+  "order_id": "A12121",
+  "amount": 271.78,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-16T00:00:00",
+  "completed_at": "2026-09-22T00:00:00"
+ },
+ {
+  "refund_id": "R343",
+  "order_id": "A12125",
+  "amount": 70.33,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-18T00:00:00",
+  "completed_at": "2026-08-24T00:00:00"
+ },
+ {
+  "refund_id": "R344",
+  "order_id": "A12137",
+  "amount": 1540.59,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-20T00:00:00",
+  "completed_at": "2026-08-26T00:00:00"
+ },
+ {
+  "refund_id": "R345",
+  "order_id": "A12147",
+  "amount": 538.73,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-07T00:00:00",
+  "completed_at": "2026-08-13T00:00:00"
+ },
+ {
+  "refund_id": "R346",
+  "order_id": "A12152",
+  "amount": 925.53,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-09-15T00:00:00",
+  "completed_at": "2026-09-21T00:00:00"
+ },
+ {
+  "refund_id": "R347",
+  "order_id": "A12153",
+  "amount": 38.86,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-29T00:00:00",
+  "completed_at": "2026-08-04T00:00:00"
+ },
+ {
+  "refund_id": "R348",
+  "order_id": "A12162",
+  "amount": 1224.44,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-19T00:00:00",
+  "completed_at": "2026-07-25T00:00:00"
+ },
+ {
+  "refund_id": "R349",
+  "order_id": "A12164",
+  "amount": 320.15,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-04T00:00:00",
+  "completed_at": "2026-08-10T00:00:00"
+ },
+ {
+  "refund_id": "R350",
+  "order_id": "A12166",
+  "amount": 2196.28,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-08T00:00:00",
+  "completed_at": "2026-07-14T00:00:00"
+ },
+ {
+  "refund_id": "R351",
+  "order_id": "A12167",
+  "amount": 760.92,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-07-16T00:00:00",
+  "completed_at": "2026-07-22T00:00:00"
+ },
+ {
+  "refund_id": "R352",
+  "order_id": "A12172",
+  "amount": 760.08,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-22T00:00:00",
+  "completed_at": "2026-08-28T00:00:00"
+ },
+ {
+  "refund_id": "R353",
+  "order_id": "A12176",
+  "amount": 117.26,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-09-22T00:00:00",
+  "completed_at": "2026-09-28T00:00:00"
+ },
+ {
+  "refund_id": "R354",
+  "order_id": "A12183",
+  "amount": 120.04,
+  "reason": "Change of mind",
+  "status": "Completed",
+  "initiated_at": "2026-08-12T00:00:00",
+  "completed_at": "2026-08-18T00:00:00"
+ },
+ {
+  "refund_id": "R355",
+  "order_id": "A12187",
+  "amount": 1842.5,
+  "reason": "Order cancelled before shipment",
+  "status": "Completed",
+  "initiated_at": "2026-08-20T00:00:00",
+  "completed_at": "2026-08-26T00:00:00"
+ },
+ {
+  "refund_id": "R356",
+  "order_id": "A12347",
+  "amount": 58.63,
+  "reason": "Change of mind",
+  "status": "Approved",
+  "initiated_at": "2026-09-27T00:00:00",
+  "completed_at": null
+ }
+]

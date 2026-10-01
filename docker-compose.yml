@@ -1,0 +1,56 @@
+# NovaSupport AI: docker compose up --build
+#   App:        http://localhost:3000        API docs: http://localhost:8000/api/docs
+#   Prometheus: http://localhost:9090        Grafana:  http://localhost:3001 (admin / admin)
+# Optional local LLM:  docker compose --profile llm up --build   (then set LLM_PROVIDER=ollama in .env)
+services:
+  postgres:
+    image: pgvector/pgvector:pg16
+    environment: { POSTGRES_USER: novasupport, POSTGRES_PASSWORD: novasupport, POSTGRES_DB: novasupport }
+    volumes: [pgdata:/var/lib/postgresql/data]
+    healthcheck: { test: ["CMD-SHELL", "pg_isready -U novasupport"], interval: 5s, timeout: 3s, retries: 20 }
+    ports: ["5432:5432"]
+
+  redis:
+    image: redis:7-alpine
+    healthcheck: { test: ["CMD", "redis-cli", "ping"], interval: 5s, timeout: 3s, retries: 20 }
+
+  backend:
+    build: { context: ., dockerfile: backend/Dockerfile }
+    env_file: [{ path: .env, required: false }]
+    environment:
+      DATABASE_URL: ${DATABASE_URL:-postgresql+psycopg2://novasupport:novasupport@postgres:5432/novasupport}
+      REDIS_URL: ${REDIS_URL:-redis://redis:6379/0}
+      LLM_PROVIDER: ${LLM_PROVIDER:-demo}
+      OLLAMA_BASE_URL: ${OLLAMA_BASE_URL:-http://ollama:11434}
+      CORS_ORIGINS: http://localhost:3000,http://localhost:5173
+    volumes: ["./evaluation:/evaluation"]
+    depends_on: { postgres: { condition: service_healthy }, redis: { condition: service_healthy } }
+    ports: ["8000:8000"]
+
+  frontend:
+    build: { context: ./frontend }
+    depends_on: [backend]
+    ports: ["3000:80"]
+
+  prometheus:
+    image: prom/prometheus:v2.54.1
+    volumes: ["./monitoring/prometheus/prometheus.yml:/etc/prometheus/prometheus.yml:ro"]
+    depends_on: [backend]
+    ports: ["9090:9090"]
+
+  grafana:
+    image: grafana/grafana:11.2.0
+    environment: { GF_SECURITY_ADMIN_USER: admin, GF_SECURITY_ADMIN_PASSWORD: admin, GF_USERS_ALLOW_SIGN_UP: "false" }
+    volumes:
+      - ./monitoring/grafana/provisioning:/etc/grafana/provisioning:ro
+      - ./monitoring/grafana/dashboards:/var/lib/grafana/dashboards:ro
+    depends_on: [prometheus]
+    ports: ["3001:3000"]
+
+  ollama:                      # optional: only started with --profile llm
+    image: ollama/ollama:latest
+    profiles: ["llm"]
+    volumes: [ollama:/root/.ollama]
+    ports: ["11434:11434"]
+
+volumes: { pgdata: {}, ollama: {} }

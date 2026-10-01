@@ -1,0 +1,220 @@
+{
+ "generated_at": "2026-10-01T08:19:44.467291+00:00Z",
+ "cases": 126,
+ "metrics": {
+  "intent_accuracy": {
+   "value_pct": 100.0,
+   "n": 85
+  },
+  "retrieval_precision": {
+   "value_pct": 43.7,
+   "n": 65
+  },
+  "retrieval_recall": {
+   "value_pct": 100.0,
+   "n": 65
+  },
+  "retrieval_hit_rate": {
+   "value_pct": 100.0,
+   "n": 65
+  },
+  "answer_correctness": {
+   "value_pct": 99.2,
+   "n": 122
+  },
+  "groundedness": {
+   "value_pct": 97.6,
+   "n": 126
+  },
+  "citation_accuracy": {
+   "value_pct": 100.0,
+   "n": 72
+  },
+  "tool_selection_accuracy": {
+   "value_pct": 100.0,
+   "n": 125
+  },
+  "escalation_accuracy": {
+   "value_pct": 100.0,
+   "n": 126
+  },
+  "safety_accuracy": {
+   "value_pct": 100.0,
+   "n": 24
+  },
+  "verifier_pass_rate": {
+   "value_pct": 100.0,
+   "n": 126
+  }
+ },
+ "latency_ms": {
+  "average": 18.6,
+  "p50": 18.3,
+  "p95": 27.3
+ },
+ "by_category": {
+  "order_tracking": {
+   "cases": 6,
+   "answer_ok": 6,
+   "answer_n": 6
+  },
+  "order_delay": {
+   "cases": 8,
+   "answer_ok": 8,
+   "answer_n": 8
+  },
+  "refund_status": {
+   "cases": 5,
+   "answer_ok": 5,
+   "answer_n": 5
+  },
+  "refund_request": {
+   "cases": 5,
+   "answer_ok": 5,
+   "answer_n": 5
+  },
+  "return": {
+   "cases": 7,
+   "answer_ok": 7,
+   "answer_n": 7
+  },
+  "exchange": {
+   "cases": 3,
+   "answer_ok": 3,
+   "answer_n": 3
+  },
+  "damaged": {
+   "cases": 4,
+   "answer_ok": 4,
+   "answer_n": 4
+  },
+  "wrong_product": {
+   "cases": 3,
+   "answer_ok": 3,
+   "answer_n": 3
+  },
+  "payment": {
+   "cases": 2,
+   "answer_ok": 2,
+   "answer_n": 2
+  },
+  "duplicate_payment": {
+   "cases": 4,
+   "answer_ok": 4,
+   "answer_n": 4
+  },
+  "cancellation": {
+   "cases": 4,
+   "answer_ok": 4,
+   "answer_n": 4
+  },
+  "address": {
+   "cases": 2,
+   "answer_ok": 2,
+   "answer_n": 2
+  },
+  "warranty": {
+   "cases": 4,
+   "answer_ok": 4,
+   "answer_n": 4
+  },
+  "membership": {
+   "cases": 3,
+   "answer_ok": 3,
+   "answer_n": 3
+  },
+  "product_info": {
+   "cases": 3,
+   "answer_ok": 3,
+   "answer_n": 3
+  },
+  "general_faq": {
+   "cases": 15,
+   "answer_ok": 14,
+   "answer_n": 15
+  },
+  "unsupported": {
+   "cases": 5,
+   "answer_ok": 5,
+   "answer_n": 5
+  },
+  "ambiguous": {
+   "cases": 4,
+   "answer_ok": 0,
+   "answer_n": 0
+  },
+  "false_premise": {
+   "cases": 4,
+   "answer_ok": 4,
+   "answer_n": 4
+  },
+  "prompt_injection": {
+   "cases": 8,
+   "answer_ok": 8,
+   "answer_n": 8
+  },
+  "pii_request": {
+   "cases": 5,
+   "answer_ok": 5,
+   "answer_n": 5
+  },
+  "unauthorized": {
+   "cases": 6,
+   "answer_ok": 6,
+   "answer_n": 6
+  },
+  "high_risk": {
+   "cases": 5,
+   "answer_ok": 5,
+   "answer_n": 5
+  },
+  "escalation": {
+   "cases": 8,
+   "answer_ok": 8,
+   "answer_n": 8
+  },
+  "multi_turn": {
+   "cases": 3,
+   "answer_ok": 3,
+   "answer_n": 3
+  }
+ },
+ "failures": [
+  {
+   "id": "GENE-14",
+   "category": "general_faq",
+   "turns": [
+    "Can I cancel an order after it has shipped?"
+   ],
+   "response": "Standard shipping is free for orders of $50 or more. Orders below $50 pay a $4.99 standard shipping fee. Express shipping costs $12.99 for non-members. Gold members receive free express shipping on orders of $100 or more. Platinum members receive free express shipping on all orders [1].\n\nSources:\n[1] NovaCart Shipping Policy \u2014 Shipping Fees",
+   "latency_ms": 15.5,
+   "predicted_intent": "GENERAL_FAQ",
+   "tools_called": [],
+   "tool_ok": true,
+   "escalation_ok": true,
+   "retrieval_precision": 0.5,
+   "retrieval_recall": 1.0,
+   "retrieval_hit": true,
+   "retrieved_docs": [
+    "cancellation_policy.md",
+    "cancellation_policy.md",
+    "shipping_policy.md",
+    "shipping_policy.md",
+    "shipping_policy.md",
+    "cancellation_policy.md"
+   ],
+   "answer_ok": false,
+   "answer_issue": {
+    "missing": [
+     "cannot be cancelled"
+    ],
+    "forbidden_present": []
+   },
+   "groundedness": 1.0,
+   "verifier_passed": true,
+   "citation_accuracy": 1.0
+  }
+ ],
+ "mode": "demo (extractive, no LLM)",
+ "note": "Synthetic dataset on synthetic data; metrics are computed from this run."
+}
